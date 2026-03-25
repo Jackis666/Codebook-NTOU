@@ -19,4 +19,3 @@
 \contentsline {subsection}{\numberline {5.2}ola/歐拉}{4}{}%
 \contentsline {section}{\numberline {6}Math2}{4}{}%
 \contentsline {subsection}{\numberline {6.1}Theorem}{4}{}%
-\contentsline {subsection}{\numberline {6.2}Prime}{4}{}%
