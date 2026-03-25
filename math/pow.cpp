@@ -1,4 +1,4 @@
-	int ksm(int x, int y) {
+int ksm(int x, int y) {
     int ans = 1;              
     while (y) {             
         if (y & 1)

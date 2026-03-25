@@ -288,4 +288,7 @@ INPUT math\theorem.tex
 INPUT .\math\prime.tex
 INPUT .\math\prime.tex
 INPUT math\prime.tex
+INPUT .\mygo_frame_eat.png
+INPUT .\mygo_frame_eat.png
+INPUT .\mygo_frame_eat.png
 INPUT codebook.aux

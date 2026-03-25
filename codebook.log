@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  23 MAR 2026 01:22
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  25 MAR 2026 22:07
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -705,6 +705,13 @@ Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                 on input line 13.
 
 ) (math/prime.tex)
+File: mygo_frame_eat.png Graphic file (type bmp)
+<mygo_frame_eat.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--198
+[][]  
+ []
+
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
@@ -747,12 +754,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 20446 strings out of 402986
- 448009 string characters out of 5447675
- 2043100 words of memory out of 5000000
- 48787 multiletter control sequences out of 15000+600000
+ 20456 strings out of 402986
+ 448223 string characters out of 5447675
+ 2043101 words of memory out of 5000000
+ 48795 multiletter control sequences out of 15000+600000
  629802 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,13n,94p,429b,1731s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on codebook.xdv (8 pages, 277836 bytes).
+Output written on codebook.xdv (8 pages, 281608 bytes).

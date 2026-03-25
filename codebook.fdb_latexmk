@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1774200146.05338 "codebook.xdv" "codebook.pdf" "codebook" 1774200146.55866 0
-  "codebook.xdv" 1774200145 277836 0c3c82d43ed9a2d1ea081313eec62151 "xelatex"
+["xdvipdfmx"] 1774447630.43121 "codebook.xdv" "codebook.pdf" "codebook" 1774447631.06041 0
+  "codebook.xdv" 1774447630 281608 6b691891b2bb848730b8e2bc47206471 "xelatex"
   (generated)
   "codebook.pdf"
   (rewritten before read)
-["xelatex"] 1774200143.71834 "d:/Codebook/codebook.tex" "codebook.xdv" "codebook" 1774200146.55195 0
+["xelatex"] 1774447627.57904 "d:/Codebook/codebook.tex" "codebook.xdv" "codebook" 1774447631.05352 0
   "C:/Users/Jackis666/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1768460476 27178390 43a9fe56a5275703fe0f645eaac894c7 ""
   "C:/Users/Jackis666/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/Jackis666/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1233951854 924 9904cf1d39e9767e7a3622f2a125a565 ""
@@ -132,21 +132,22 @@
   "basic/random.cpp" 1768462366 195 af3a9ca87c4dfb6af5a8044c90c78d95 ""
   "binary search/binary search.cpp" 1768495764 933 02830d6907e29c675b6503599f95c5af ""
   "binary search/tenary search.cpp" 1768495483 280 2cd2f4c4bd70a5e6c3a9a1d5b76e1947 ""
-  "codebook.aux" 1774200145 3604 ebffbc3de960eb0dfed6a68cd93eca87 "xelatex"
-  "codebook.tex" 1774200143 6989 3d2c4a356d3d930bb0c9b1a1987525d3 ""
-  "codebook.toc" 1774200145 1311 1ed5b9d208baf7b02c376af4e6ebc035 "xelatex"
-  "d:/Codebook/codebook.tex" 1774200143 6989 3d2c4a356d3d930bb0c9b1a1987525d3 ""
+  "codebook.aux" 1774447630 3614 89add36cbce208af1f931b19a607b75c "xelatex"
+  "codebook.tex" 1774447626 7109 f30ca89efaf29683cf9222bf69f5a9d3 ""
+  "codebook.toc" 1774447630 1321 59933859209a473a4071aaecfcc2f1d8 "xelatex"
+  "d:/Codebook/codebook.tex" 1774447626 7109 f30ca89efaf29683cf9222bf69f5a9d3 ""
   "datastructure/BIT.cpp" 1768567735 781 cd6b844a01fd08ff3f68df9e9484a1b9 ""
   "datastructure/Seg.cpp" 1768567781 3257 8b07cc322dcd0a5283561825cc57cccf ""
   "datastructure/dsu.cpp" 1768463207 641 0344be43263fd553a3ad53ff73bcef39 ""
-  "graph/ola.cpp" 1774199641 443 5c6e1d6ef7bc67fe9cfa2cb34db980cb ""
+  "graph/ola.cpp" 1774446523 572 4b1079ea59b7ebc2b6e4a97a544f3bd2 ""
   "graph/topo.cpp" 1768494794 432 c032ccadfbe761bb645024defbb92ec6 ""
   "math/basic" 1768463287 32 161d23ebc9544eb5039dd3b95ef41a0d ""
   "math/bigmath.cpp" 1771420516 2475 224e444766ea19f1612fc6ccb47b44c9 ""
-  "math/pow.cpp" 1771822581 1039 f3d8dab9521f095e50b273db132726e1 ""
+  "math/pow.cpp" 1774447123 1038 db3e35e83570463a9675769c4a86262b ""
   "math/prime.tex" 1768468172 497 206b9d810edd4805c7e63dceb2243ce1 ""
   "math/sort_of_point.cpp" 1770817380 485 6ce45cb54d77181873b55fd662eb010a ""
   "math/theorem.tex" 1768467092 3889 e44047f27686255d653900650bcc5fcf ""
+  "mygo_frame_eat.png" 1774447403 79317 923a4dba0a7fbcff418b5a5c6683975a ""
   (generated)
   "codebook.aux"
   "codebook.log"
