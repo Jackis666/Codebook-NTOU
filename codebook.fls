@@ -200,14 +200,6 @@ INPUT C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex\xelatex\xecjk\xeCJK.c
 INPUT C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex\xelatex\xecjk\xeCJK.cfg
 INPUT C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\courier.sty
 INPUT C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex\latex\psnfss\courier.sty
-INPUT C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex\latex\draftwatermark\draftwatermark.sty
-INPUT C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex\latex\draftwatermark\draftwatermark.sty
-INPUT C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex\latex\kvoptions\kvoptions.sty
-INPUT C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex\generic\ltxcmds\ltxcmds.sty
-INPUT C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
-INPUT C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex\latex\kvsetkeys\kvsetkeys.sty
 INPUT C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
 INPUT C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
 INPUT C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex\latex\listings\lstlang1.sty
@@ -285,6 +277,9 @@ INPUT .\math\theorem.tex
 INPUT .\math\theorem.tex
 INPUT .\math\theorem.tex
 INPUT math\theorem.tex
+INPUT .\math\prime.tex
+INPUT .\math\prime.tex
+INPUT math\prime.tex
 INPUT .\photo\mygo_frame_eat.png
 INPUT .\photo\mygo_frame_eat.png
 INPUT .\photo\mygo_frame_eat.png

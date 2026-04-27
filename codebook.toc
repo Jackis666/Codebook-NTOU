@@ -14,8 +14,9 @@
 \contentsline {subsection}{\numberline {4.1}DSU(並查集)}{2}{}%
 \contentsline {subsection}{\numberline {4.2}FenwickTree/BIT}{3}{}%
 \contentsline {subsection}{\numberline {4.3}Seg/線段樹}{3}{}%
-\contentsline {section}{\numberline {5}Graph}{4}{}%
-\contentsline {subsection}{\numberline {5.1}Topo/拓樸}{4}{}%
-\contentsline {subsection}{\numberline {5.2}ola/歐拉}{4}{}%
+\contentsline {section}{\numberline {5}Graph}{3}{}%
+\contentsline {subsection}{\numberline {5.1}Topo/拓樸}{3}{}%
+\contentsline {subsection}{\numberline {5.2}ola/歐拉}{3}{}%
 \contentsline {section}{\numberline {6}Math2}{4}{}%
 \contentsline {subsection}{\numberline {6.1}Theorem}{4}{}%
+\contentsline {subsection}{\numberline {6.2}Prime}{4}{}%

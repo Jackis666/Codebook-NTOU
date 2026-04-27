@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  25 MAR 2026 22:17
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  26 APR 2026 16:45
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -502,15 +502,7 @@ Package: xeCJK-listings 2022/08/05 v3.9.1 xeCJK patch file for listings
 File: xeCJK.cfg 2022/08/05 v3.9.1 Configuration file for xeCJK package
 )) (C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\courier.sty
 Package: courier 2020/03/25 PSNFSS-v9.3 (WaS) 
-) (C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex/latex/draftwatermark\draftwatermark.sty
-Package: draftwatermark 2024/03/04 3.3 Put a gray textual watermark on document pages
- (C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
-Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
- (C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
-Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
-) (C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
-Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
-)))
+)
 
 Package fontspec Info: 
 (fontspec)             Font family 'Consolas(0)' created for font 'Consolas'
@@ -689,24 +681,25 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[2]) (datastructure/BIT.cpp) (datastructure/Seg.cpp
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
+[2]) (datastructure/BIT.cpp) (datastructure/Seg.cpp) (graph/topo.cpp) (graph/ola.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[3]) (graph/topo.cpp) (graph/ola.cpp) (math/theorem.tex
+[3]) (math/theorem.tex
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 13.
 
-)
+) (math/prime.tex)
 File: photo/mygo_frame_eat.png Graphic file (type bmp)
 <photo/mygo_frame_eat.png>
+
+Underfull \hbox (badness 10000) in paragraph at lines 2--198
+[][]  
+ []
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -721,25 +714,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [5
 
-]
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[6]
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[7]
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[8] (codebook.aux)
+] (codebook.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
@@ -750,12 +725,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 20450 strings out of 402986
- 448124 string characters out of 5447675
- 2043101 words of memory out of 5000000
- 48790 multiletter control sequences out of 15000+600000
- 629802 words of font info for 77 fonts, out of 8000000 for 9000
+ 20007 strings out of 402986
+ 439936 string characters out of 5447675
+ 1853112 words of memory out of 5000000
+ 48359 multiletter control sequences out of 15000+600000
+ 629786 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 84i,13n,94p,429b,1731s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,12n,94p,429b,1731s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on codebook.xdv (8 pages, 277856 bytes).
+Output written on codebook.xdv (5 pages, 298444 bytes).
