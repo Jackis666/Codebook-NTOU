@@ -7,11 +7,12 @@
 \contentsline {subsection}{\numberline {2.2}快速幂}{1}{}%
 \contentsline {subsection}{\numberline {2.3}大數運算}{1}{}%
 \contentsline {subsection}{\numberline {2.4}極座標排序}{2}{}%
+\contentsline {subsection}{\numberline {2.5}ExGCD}{2}{}%
 \contentsline {section}{\numberline {3}Binary Search}{2}{}%
 \contentsline {subsection}{\numberline {3.1}二分搜}{2}{}%
 \contentsline {subsection}{\numberline {3.2}三分搜}{2}{}%
-\contentsline {section}{\numberline {4}DataStructure}{2}{}%
-\contentsline {subsection}{\numberline {4.1}DSU(並查集)}{2}{}%
+\contentsline {section}{\numberline {4}DataStructure}{3}{}%
+\contentsline {subsection}{\numberline {4.1}DSU(並查集)}{3}{}%
 \contentsline {subsection}{\numberline {4.2}FenwickTree/BIT}{3}{}%
 \contentsline {subsection}{\numberline {4.3}Seg/線段樹}{3}{}%
 \contentsline {section}{\numberline {5}Graph}{3}{}%

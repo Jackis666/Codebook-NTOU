@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  26 APR 2026 16:45
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  30 APR 2026 16:19
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -675,13 +675,13 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [1
 
-]) (math/sort_of_point.cpp) (binary search/binary search.cpp) (binary search/tenary search.cpp) (datastructure/dsu.cpp
+]) (math/sort_of_point.cpp) (math/exgcd.cpp) (binary search/binary search.cpp) (binary search/tenary search.cpp)
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[2]) (datastructure/BIT.cpp) (datastructure/Seg.cpp) (graph/topo.cpp) (graph/ola.cpp
+[2] (datastructure/dsu.cpp) (datastructure/BIT.cpp) (datastructure/Seg.cpp) (graph/topo.cpp) (graph/ola.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
@@ -697,7 +697,7 @@ Package amsmath Warning: Foreign command \atopwithdelims;
 File: photo/mygo_frame_eat.png Graphic file (type bmp)
 <photo/mygo_frame_eat.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--198
+Underfull \hbox (badness 10000) in paragraph at lines 2--201
 [][]  
  []
 
@@ -725,12 +725,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 20007 strings out of 402986
- 439936 string characters out of 5447675
- 1853112 words of memory out of 5000000
- 48359 multiletter control sequences out of 15000+600000
+ 20019 strings out of 402986
+ 440061 string characters out of 5447675
+ 1856112 words of memory out of 5000000
+ 48368 multiletter control sequences out of 15000+600000
  629786 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,12n,94p,429b,1731s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on codebook.xdv (5 pages, 298444 bytes).
+Output written on codebook.xdv (5 pages, 304552 bytes).

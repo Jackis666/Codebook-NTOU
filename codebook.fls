@@ -251,6 +251,9 @@ OUTPUT codebook.xdv
 INPUT .\math\sort_of_point.cpp
 INPUT .\math\sort_of_point.cpp
 INPUT math\sort_of_point.cpp
+INPUT .\math\exgcd.cpp
+INPUT .\math\exgcd.cpp
+INPUT math\exgcd.cpp
 INPUT .\binary search\binary search.cpp
 INPUT .\binary search\binary search.cpp
 INPUT binary search\binary search.cpp
@@ -272,8 +275,6 @@ INPUT graph\topo.cpp
 INPUT .\graph\ola.cpp
 INPUT .\graph\ola.cpp
 INPUT graph\ola.cpp
-INPUT .\math\theorem.tex
-INPUT .\math\theorem.tex
 INPUT .\math\theorem.tex
 INPUT .\math\theorem.tex
 INPUT math\theorem.tex
