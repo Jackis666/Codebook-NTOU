@@ -1,62 +1,97 @@
-#define cl (i << 1)
-#define cr (i << 1 | 1)
-#define NO_TAG 0
-struct SegmentTree {  // 1-base
-  int n;
-  vector<int> seg, tag;
-  SegmentTree(int _n) : n(_n) {  // 空的 SegmentTree
-    seg.resize(n * 4), tag.resize(n * 4);
-  }
-  void push(int i, int l, int r) {
-    if (tag[i] != NO_TAG) {
-      seg[i] += tag[i];  // update by tag
-      if (l != r)
-        tag[cl] += tag[i], tag[cr] += tag[i];  // push
-      tag[i] = 0;
+struct Seg {
+#define cl(x) (x << 1)
+#define cr(x) (x << 1) + 1
+    int _n;
+    vector<int> f, tag;
+    vector<int> arr;
+    int base;
+
+    Seg(int n) : _n(n), f(4 * n), tag(4 * n) {}
+
+    Seg(vector<int> a, int b) {
+        _n = a.size();
+        f.resize(4 * _n + 1, 0);
+        tag.resize(4 * _n + 1, 0);
+        arr.resize(_n);
+        for (int i = 0; i < _n; i++) {
+            arr[i] = a[i];
+        }
+        base = b;
+        build(1, base, _n - 1 + base);
     }
-  }
-  void pull(int i, int l, int r) {
-    int mid = (l + r) >> 1;
-    push(cl, l, mid), push(cr, mid + 1, r);
-    seg[i] = max(seg[cl], seg[cr]);  // pull (操作改這)
-  }
-  void build(int i, int l, int r) {
-    if (l == r) {
-      seg[i] = arr[l];  // 初始值
-      return;
+
+    void build(int id, int l, int r) {
+        if (l == r) {
+            f[id] = arr[l];
+            return;
+        }
+        int mid = (l + r) >> 1;
+        build(cl(id), l, mid);
+        build(cr(id), mid + 1, r);
+        pull(id, l, r);
     }
-    int mid = (l + r) >> 1;
-    build(cl, l, mid), build(cr, mid + 1, r);
-    pull(i, l, r);
-  }
-  void update(int i, int l, int r, int ql, int qr,
-              int v) {
-    push(i, l, r);
-    if (ql <= l && r <= qr) {
-      tag[i] += v;
-      return;
+
+    void pull(int id, int l, int r) {
+        int mid = (l + r) >> 1;
+        push(cl(id), l, mid);
+        push(cr(id), mid + 1, r);
+        f[id] = f[cl(id)] + f[cr(id)];
     }
-    int mid = (l + r) >> 1;
-    if (ql <= mid) update(cl, l, mid, ql, qr, v);
-    if (qr > mid) update(cr, mid + 1, r, ql, qr, v);
-    pull(i, l, r);
-  }
-  int query(int i, int l, int r, int ql, int qr) {
-    push(i, l, r);
-    if (ql <= l && r <= qr) return seg[i];
-    int mid = (l + r) >> 1, ans = -INF;
-    if (ql <= mid)  // (操作改這)
-      ans = max(ans, query(cl, l, mid, ql, qr));
-    if (qr > mid)  // (操作改這)
-      ans = max(ans, query(cr, mid + 1, r, ql, qr));
-    return ans;
-  }
-  // 區間 [ql, qr] 加值 v
-  void update(int ql, int qr, int v) {
-    update(1, 0, n-1, ql, qr, v);
-  }
-  // 查詢區間 [ql, qr]
-  int query(int ql, int qr) {
-    return query(1, 0, n-1, ql, qr);
-  }
+
+    void push(int id, int l, int r) {
+        if (tag[id]) {
+            f[id] += tag[id] * (r - l + 1);
+            if (l != r) {
+                tag[cl(id)] += tag[id];
+                tag[cr(id)] += tag[id];
+            }
+            tag[id] = 0;
+        }
+    }
+
+    void update(int id, int l, int r, int x, int v) {
+        if (l == r) {
+            f[id] = v;
+            return;
+        }
+        int mid = (l + r) >> 1;
+        if (x <= mid) update(cl(id), l, mid, x, v);
+        if (mid < x)  update(cr(id), mid + 1, r, x, v);
+        pull(id, l, r);
+    }
+
+    void update(int id, int l, int r, int ql, int qr, int v) {
+        push(id, l, r);
+        if (ql <= l and qr >= r) {
+            tag[id] += v;
+            return;
+        }
+        int mid = (l + r) >> 1;
+        if (ql <= mid) {
+            update(cl(id), l, mid, ql, qr, v);
+        }
+        if (qr > mid) {
+            update(cr(id), mid + 1, r, ql, qr, v);
+        }
+        pull(id, l, r);
+    }
+
+    int query(int id, int l, int r, int sl, int sr) {
+        push(id, l, r);
+        if (sl <= l and sr >= r) {
+            return f[id];
+        }
+        int res = 0;
+        int mid = (l + r) >> 1;
+        int ll = 0;
+        int rr = 0;
+        if (sl <= mid) {
+            ll = query(cl(id), l, mid, sl, sr);
+        }
+        if (sr > mid) {
+            rr = query(cr(id), mid + 1, r, sl, sr);
+        }
+        res = ll + rr;
+        return res;
+    }
 };

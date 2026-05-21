@@ -22,10 +22,12 @@
 \contentsline {subsection}{\numberline {5.2}bellman/邊長鬆弛}{4}{}%
 \contentsline {subsection}{\numberline {5.3}ola/歐拉}{4}{}%
 \contentsline {subsection}{\numberline {5.4}LCA/最近公共祖先}{4}{}%
-\contentsline {section}{\numberline {6}dynamic programming}{4}{}%
-\contentsline {subsection}{\numberline {6.1}SOS DP}{4}{}%
+\contentsline {section}{\numberline {6}dynamic programming}{5}{}%
+\contentsline {subsection}{\numberline {6.1}SOS DP}{5}{}%
 \contentsline {section}{\numberline {7}String}{5}{}%
 \contentsline {subsection}{\numberline {7.1}SAIS}{5}{}%
-\contentsline {section}{\numberline {8}Math2}{5}{}%
-\contentsline {subsection}{\numberline {8.1}Theorem}{5}{}%
-\contentsline {subsection}{\numberline {8.2}Prime}{6}{}%
+\contentsline {section}{\numberline {8}酷東西可能會用到}{5}{}%
+\contentsline {subsection}{\numberline {8.1}areaofrect/矩形聯集面積}{5}{}%
+\contentsline {section}{\numberline {9}Math2}{6}{}%
+\contentsline {subsection}{\numberline {9.1}Theorem}{6}{}%
+\contentsline {subsection}{\numberline {9.2}Prime}{6}{}%

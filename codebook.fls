@@ -293,6 +293,9 @@ INPUT dynamic programming\SOS.cpp
 INPUT .\string\SAIS.cpp
 INPUT .\string\SAIS.cpp
 INPUT string\SAIS.cpp
+INPUT .\useful\areaofrect.cpp
+INPUT .\useful\areaofrect.cpp
+INPUT useful\areaofrect.cpp
 INPUT .\math\theorem.tex
 INPUT .\math\theorem.tex
 INPUT math\theorem.tex
