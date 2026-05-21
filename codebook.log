@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  30 APR 2026 16:19
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  22 MAY 2026 01:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -675,29 +675,40 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [1
 
-]) (math/sort_of_point.cpp) (math/exgcd.cpp) (binary search/binary search.cpp) (binary search/tenary search.cpp)
+]) (math/sort_of_point.cpp) (math/exgcd.cpp) (math/phi.cpp) (binary search/binary search.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[2] (datastructure/dsu.cpp) (datastructure/BIT.cpp) (datastructure/Seg.cpp) (graph/topo.cpp) (graph/ola.cpp
+[2]) (binary search/tenary search.cpp) (datastructure/dsu.cpp) (datastructure/BIT.cpp) (datastructure/BIT_2D.cpp) (datastructure/Seg.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[3]) (math/theorem.tex
+[3]) (graph/topo.cpp) (graph/bellman.cpp) (graph/ola.cpp) (graph/lca.cpp) (dynamic programming/SOS.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[4]) (string/SAIS.cpp) (math/theorem.tex
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 13.
 
-) (math/prime.tex)
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[5]) (math/prime.tex)
 File: photo/mygo_frame_eat.png Graphic file (type bmp)
 <photo/mygo_frame_eat.png>
 
-Underfull \hbox (badness 10000) in paragraph at lines 2--201
+Underfull \hbox (badness 10000) in paragraph at lines 2--223
 [][]  
  []
 
@@ -706,13 +717,15 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[4]
+[6
+
+]
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[5
+[7
 
 ] (codebook.aux)
  ***********
@@ -725,12 +738,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 20019 strings out of 402986
- 440061 string characters out of 5447675
- 1856112 words of memory out of 5000000
- 48368 multiletter control sequences out of 15000+600000
+ 20192 strings out of 402986
+ 442563 string characters out of 5447675
+ 1964111 words of memory out of 5000000
+ 48522 multiletter control sequences out of 15000+600000
  629786 words of font info for 75 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 84i,12n,94p,429b,1731s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,12n,94p,429b,1733s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on codebook.xdv (5 pages, 304552 bytes).
+Output written on codebook.xdv (7 pages, 475120 bytes).

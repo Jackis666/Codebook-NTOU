@@ -254,6 +254,9 @@ INPUT math\sort_of_point.cpp
 INPUT .\math\exgcd.cpp
 INPUT .\math\exgcd.cpp
 INPUT math\exgcd.cpp
+INPUT .\math\phi.cpp
+INPUT .\math\phi.cpp
+INPUT math\phi.cpp
 INPUT .\binary search\binary search.cpp
 INPUT .\binary search\binary search.cpp
 INPUT binary search\binary search.cpp
@@ -266,15 +269,30 @@ INPUT datastructure\dsu.cpp
 INPUT .\datastructure\BIT.cpp
 INPUT .\datastructure\BIT.cpp
 INPUT datastructure\BIT.cpp
+INPUT .\datastructure\BIT_2D.cpp
+INPUT .\datastructure\BIT_2D.cpp
+INPUT datastructure\BIT_2D.cpp
 INPUT .\datastructure\Seg.cpp
 INPUT .\datastructure\Seg.cpp
 INPUT datastructure\Seg.cpp
 INPUT .\graph\topo.cpp
 INPUT .\graph\topo.cpp
 INPUT graph\topo.cpp
+INPUT .\graph\bellman.cpp
+INPUT .\graph\bellman.cpp
+INPUT graph\bellman.cpp
 INPUT .\graph\ola.cpp
 INPUT .\graph\ola.cpp
 INPUT graph\ola.cpp
+INPUT .\graph\lca.cpp
+INPUT .\graph\lca.cpp
+INPUT graph\lca.cpp
+INPUT .\dynamic programming\SOS.cpp
+INPUT .\dynamic programming\SOS.cpp
+INPUT dynamic programming\SOS.cpp
+INPUT .\string\SAIS.cpp
+INPUT .\string\SAIS.cpp
+INPUT string\SAIS.cpp
 INPUT .\math\theorem.tex
 INPUT .\math\theorem.tex
 INPUT math\theorem.tex
