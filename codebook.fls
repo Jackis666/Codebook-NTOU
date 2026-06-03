@@ -229,9 +229,6 @@ INPUT C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.f
 INPUT C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
 INPUT C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm5.tfm
 OUTPUT codebook.toc
-INPUT .\basic\default.cpp
-INPUT .\basic\default.cpp
-INPUT basic\default.cpp
 INPUT .\basic\coolthings.cpp
 INPUT .\basic\coolthings.cpp
 INPUT basic\coolthings.cpp
@@ -290,19 +287,13 @@ INPUT graph\lca.cpp
 INPUT .\dynamic programming\SOS.cpp
 INPUT .\dynamic programming\SOS.cpp
 INPUT dynamic programming\SOS.cpp
-INPUT .\string\SAIS.cpp
-INPUT .\string\SAIS.cpp
-INPUT string\SAIS.cpp
 INPUT .\useful\areaofrect.cpp
 INPUT .\useful\areaofrect.cpp
 INPUT useful\areaofrect.cpp
 INPUT .\math\theorem.tex
 INPUT .\math\theorem.tex
 INPUT math\theorem.tex
-INPUT .\math\prime.tex
-INPUT .\math\prime.tex
-INPUT math\prime.tex
-INPUT .\photo\mygo_frame_eat.png
-INPUT .\photo\mygo_frame_eat.png
-INPUT .\photo\mygo_frame_eat.png
+INPUT .\photo\mygo_frame_haruhikage.jpeg
+INPUT .\photo\mygo_frame_haruhikage.jpeg
+INPUT .\photo\mygo_frame_haruhikage.jpeg
 INPUT codebook.aux

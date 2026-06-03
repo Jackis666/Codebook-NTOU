@@ -1,46 +1,42 @@
-//圖要是1-based的 而且要是樹 
- int lg=20;
-vector<vector<int>> father(n+1,vector<int>(lg+1,0));
-vector<vector<int>> dis(n+1,vector<int>(lg+1,0));
-vector<int> dep(n+1,0);
-vector<int> in(n+1,0),out(n+1,1e18);
-int tim=1;
-function<void(int,int,int)> dfs=[&](int x,int f,int len){
-    father[x][0]=f;
-    in[x]=tim++;
-    dep[x]=len;
-    for(auto [y,w]:mp[x]){
-        if(y==f) continue;
-        dis[y][0]=w;
-        dfs(y,x,len+1);
+struct{
+    int n, logN;
+    vector<vector<int>>jump;
+    vector<int>in, out;
+    bool is_ancestor(int x, int y){
+        if(x == -1 || y == -1) return 1;
+        return in[x] <= in[y] && out[y] <= out[x];
     }
-    out[x]=tim++;
-};
-auto isfather=[&](int x,int y){// x是否是y的祖先
-    return in[x]<=in[y] and out[x]>=out[y];
-};
-auto getlca=[&](int x,int y){//找x和y的最近祖先
-    if(isfather(x,y)) return x;
-    if(isfather(y,x)) return y;
-    for(int i=lg;i>=0;i--){
-        if(!isfather(father[x][i],y)){
-            x=father[x][i];
+    int query(int x, int y){
+        if(is_ancestor(x, y)) return x;
+        if(is_ancestor(y, x)) return y;
+        for(int i = logN - 1; i >= 0; i--){
+            if(!is_ancestor(jump[x][i], y)) x = jump[x][i];
+        }
+        return jump[x][0];
+    }
+    void init(int _n, vector<vector<int>>&v){//size, adj array 0base
+        n = _n;
+        logN = log2(n) + 1;
+
+        jump.resize(n, vector<int>(logN, -1));
+        in.resize(n); out.resize(n);
+
+        int timing = 1;
+        auto dfs = [&](auto &&self, int x) -> void{
+            in[x] = timing++;
+            for(auto &i : v[x]){
+                jump[i][0] = x;
+                self(self, i);
+            }
+            out[x] = timing++;
+            return;
+        }; dfs(dfs, 0);
+
+        for(int i = 1; i < logN; i++){
+            for(int now = 1; now < n; now++){
+                if(jump[now][i-1] == -1) continue;
+                jump[now][i] = jump[jump[now][i-1]][i-1];
+            }
         }
     }
-    return father[x][0];
-};
-auto gtwlca=[&](int x,int y or k){// 取x到y的路徑上的最大值(也可以改成找x的第y的祖先)
-    int k=dep[x]-dep[y];
-    int ans=0;
-    int cc=lg;
-    while(k){
-        if((1<<cc)<=k){
-            ans=max(ans,dis[x][cc]);
-            x=father[x][cc];
-            k-=(1<<cc);
-        }
-        cc--;
-    }
-    return ans;
-};
-dfs(1,0,0);
+}LCA;
