@@ -4,11 +4,8 @@ struct Seg {
     int _n;
     vector<int> f, tag;
     vector<int> arr;
-    int base;
-
-    Seg(int n) : _n(n), f(4 * n), tag(4 * n) {}
-
-    Seg(vector<int> a, int b) {
+    //Seg(int n) : _n(n), f(4 * n), tag(4 * n) {}
+    Seg(vector<int> a) {
         _n = a.size();
         f.resize(4 * _n + 1, 0);
         tag.resize(4 * _n + 1, 0);
@@ -16,8 +13,15 @@ struct Seg {
         for (int i = 0; i < _n; i++) {
             arr[i] = a[i];
         }
-        base = b;
-        build(1, base, _n - 1 + base);
+
+        build(1, 0, _n - 1);
+    }
+    Seg(int x){
+        _n = x;
+        f.resize(4 * _n + 1, 0);
+        tag.resize(4 * _n + 1, 0);
+        arr.resize(_n);
+
     }
 
     void build(int id, int l, int r) {

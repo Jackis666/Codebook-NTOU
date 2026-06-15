@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1780475045.37886 "codebook.xdv" "codebook.pdf" "codebook" 1780475045.97462 0
-  "codebook.xdv" 1780475045 426980 8dfe153e17ca1622b715d6eeb9df2b75 "xelatex"
+["xdvipdfmx"] 1781548581.80905 "codebook.xdv" "codebook.pdf" "codebook" 1781548582.38999 0
+  "codebook.xdv" 1781548581 524608 0dcb84d5f670d4e36f094bc62b5ad4b0 "xelatex"
   (generated)
   "codebook.pdf"
   (rewritten before read)
-["xelatex"] 1780475042.27984 "d:/Codebook/codebook.tex" "codebook.xdv" "codebook" 1780475045.96685 0
+["xelatex"] 1781548578.99154 "d:/Codebook/codebook.tex" "codebook.xdv" "codebook" 1781548582.38037 0
   "C:/Users/Jackis666/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1768460476 27178390 43a9fe56a5275703fe0f645eaac894c7 ""
   "C:/Users/Jackis666/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/Jackis666/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1233951854 924 9904cf1d39e9767e7a3622f2a125a565 ""
@@ -124,16 +124,17 @@
   "C:/Users/Jackis666/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJK.sty" 1659726270 183137 ed372550124703b2b73cbcc0b47cb20f ""
   "C:/Users/Jackis666/AppData/Local/Programs/MiKTeX/tex/xelatex/xecjk/xeCJKfntef.sty" 1659726270 39577 b470f8a1dbecc9c45c9bf05ca7db9188 ""
   "basic/coolthings.cpp" 1768463207 363 f0b0bda2c9c5e862cd610425d239534a ""
+  "basic/default.cpp" 1768463291 348 892ebbb49ae53f4efdacb7637324ba22 ""
   "basic/random.cpp" 1768462366 195 af3a9ca87c4dfb6af5a8044c90c78d95 ""
   "binary search/binary search.cpp" 1780328407 925 cf8a229fbd6022876d34196afbd0796d ""
   "binary search/tenary search.cpp" 1768495483 280 2cd2f4c4bd70a5e6c3a9a1d5b76e1947 ""
-  "codebook.aux" 1780475045 4962 d1fc3faa926bf81b291904e4891ac715 "xelatex"
-  "codebook.tex" 1780475038 7965 83946933e01a7b31bf15e5a3c790f1d1 ""
-  "codebook.toc" 1780475045 1800 89b67a637a9e0f4597487d192841847a "xelatex"
-  "d:/Codebook/codebook.tex" 1780475038 7965 83946933e01a7b31bf15e5a3c790f1d1 ""
+  "codebook.aux" 1781548581 5535 bca51da45dbc266b8280e6fab83e1678 "xelatex"
+  "codebook.tex" 1781548575 7950 5e61b5ff3fe2d57add5513ded8ed6fbf ""
+  "codebook.toc" 1781548581 2025 87876d61f3ccb73c0082832c00eb8c1d "xelatex"
+  "d:/Codebook/codebook.tex" 1781548575 7950 5e61b5ff3fe2d57add5513ded8ed6fbf ""
   "datastructure/BIT.cpp" 1768567735 781 cd6b844a01fd08ff3f68df9e9484a1b9 ""
   "datastructure/BIT_2D.cpp" 1779383129 693 6d875bb0a785d16a45127c5fa2ddb6d3 ""
-  "datastructure/Seg.cpp" 1779383843 2432 002a6b48d85322ecd5a31380814c2d45 ""
+  "datastructure/Seg.cpp" 1781548433 2519 2925bd2e9c37082d7a140e6685371f41 ""
   "datastructure/dsu.cpp" 1768463207 641 0344be43263fd553a3ad53ff73bcef39 ""
   "dynamic programming/SOS.cpp" 1777570695 326 2a34f23464ab597747e3d58b7a953d8b ""
   "graph/bellman.cpp" 1779379779 464 2bbd5714f5609e32d15ad72cd458110f ""
@@ -145,9 +146,11 @@
   "math/exgcd.cpp" 1777535731 144 95c4b20db5abea36859426018e625298 ""
   "math/phi.cpp" 1779382850 578 e218bfa6ede76c5357842ba9cf56ebef ""
   "math/pow.cpp" 1774447123 1038 db3e35e83570463a9675769c4a86262b ""
+  "math/prime.tex" 1768468172 497 206b9d810edd4805c7e63dceb2243ce1 ""
   "math/sort_of_point.cpp" 1770817380 485 6ce45cb54d77181873b55fd662eb010a ""
   "math/theorem.tex" 1768467092 3889 e44047f27686255d653900650bcc5fcf ""
   "photo/mygo_frame_haruhikage.jpeg" 1780474861 32967 03bb1b8e8c92be63305a5fbc34b5c5c0 ""
+  "string/SAIS.cpp" 1779382112 2971 ae91a1a69ec5e47a899ee2db30ebdbed ""
   "useful/areaofrect.cpp" 1779384703 1833 631992d8d93d30d704c0bdb847b46a4f ""
   (generated)
   "codebook.aux"
