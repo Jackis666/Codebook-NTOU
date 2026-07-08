@@ -287,9 +287,18 @@ INPUT graph\ola.cpp
 INPUT .\graph\lca.cpp
 INPUT .\graph\lca.cpp
 INPUT graph\lca.cpp
+INPUT .\graph\ConvexHull.cpp
+INPUT .\graph\ConvexHull.cpp
+INPUT graph\ConvexHull.cpp
+INPUT .\graph\km.cpp
+INPUT .\graph\km.cpp
+INPUT graph\km.cpp
 INPUT .\dynamic programming\SOS.cpp
 INPUT .\dynamic programming\SOS.cpp
 INPUT dynamic programming\SOS.cpp
+INPUT .\flow\dinic.cpp
+INPUT .\flow\dinic.cpp
+INPUT flow\dinic.cpp
 INPUT .\string\SAIS.cpp
 INPUT .\string\SAIS.cpp
 INPUT string\SAIS.cpp
@@ -299,9 +308,9 @@ INPUT useful\areaofrect.cpp
 INPUT .\math\theorem.tex
 INPUT .\math\theorem.tex
 INPUT math\theorem.tex
-INPUT .\math\prime.tex
-INPUT .\math\prime.tex
-INPUT math\prime.tex
+INPUT .\math\prime.cpp
+INPUT .\math\prime.cpp
+INPUT math\prime.cpp
 INPUT .\photo\mygo_frame_haruhikage.jpeg
 INPUT .\photo\mygo_frame_haruhikage.jpeg
 INPUT .\photo\mygo_frame_haruhikage.jpeg
