@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  8 JUL 2026 17:11
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  6 AUG 2026 00:47
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -693,49 +693,54 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[4]) (graph/ConvexHull.cpp) (graph/km.cpp) (dynamic programming/SOS.cpp
+[4]) (graph/km.cpp) (dynamic programming/SOS.cpp) (Computational Geometry/defult.cpp) (Computational Geometry/ConvexHull.cpp)
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[5]) (flow/dinic.cpp) (string/SAIS.cpp) (useful/areaofrect.cpp
+[5] (Computational Geometry/PtSegDist.cpp) (Computational Geometry/inpoly.cpp) (flow/dinic.cpp) (string/SAIS.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[6]) (math/theorem.tex
+[6]) (string/KMP.cpp) (useful/areaofrect.cpp) (math/theorem.tex
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 13.
 
-) (math/prime.cpp)
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[7]) (math/prime.cpp)
 File: photo/mygo_frame_haruhikage.jpeg Graphic file (type bmp)
 <photo/mygo_frame_haruhikage.jpeg>
 
-Underfull \hbox (badness 2922) in paragraph at lines 1--242
+Underfull \hbox (badness 2922) in paragraph at lines 1--259
 []\TU/Consolas(0)/m/n/7 / * 12721, 13331, 14341, 75577, 123457, 222557, 556679
  []
 
 
-Underfull \hbox (badness 5741) in paragraph at lines 1--242
+Underfull \hbox (badness 5741) in paragraph at lines 1--259
 \TU/Consolas(0)/m/n/7 * 999983, 1097774749, 1076767633, 100102021, 999997771 *
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--242
+Underfull \hbox (badness 10000) in paragraph at lines 1--259
 \TU/Consolas(0)/m/n/7 1001010013, 1000512343, 987654361, 999991231 * 999888733,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--242
+Underfull \hbox (badness 10000) in paragraph at lines 1--259
 \TU/Consolas(0)/m/n/7 98789101, 987777733, 999991921, 1010101333 * 1010102101,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--242
+Underfull \hbox (badness 10000) in paragraph at lines 1--259
 \TU/Consolas(0)/m/n/7 1000000000039, 1000000000000037 * 2305843009213693951,
  []
 
@@ -744,13 +749,15 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[7]
+[8
+
+]
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[8
+[9
 
 ] (codebook.aux)
  ***********
@@ -763,12 +770,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 20361 strings out of 402986
- 445064 string characters out of 5447675
- 2213112 words of memory out of 5000000
- 48675 multiletter control sequences out of 15000+600000
+ 20412 strings out of 402986
+ 446093 string characters out of 5447675
+ 2279110 words of memory out of 5000000
+ 48713 multiletter control sequences out of 15000+600000
  629802 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,12n,94p,429b,1731s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on codebook.xdv (8 pages, 644716 bytes).
+Output written on codebook.xdv (9 pages, 696212 bytes).

@@ -287,21 +287,33 @@ INPUT graph\ola.cpp
 INPUT .\graph\lca.cpp
 INPUT .\graph\lca.cpp
 INPUT graph\lca.cpp
-INPUT .\graph\ConvexHull.cpp
-INPUT .\graph\ConvexHull.cpp
-INPUT graph\ConvexHull.cpp
 INPUT .\graph\km.cpp
 INPUT .\graph\km.cpp
 INPUT graph\km.cpp
 INPUT .\dynamic programming\SOS.cpp
 INPUT .\dynamic programming\SOS.cpp
 INPUT dynamic programming\SOS.cpp
+INPUT .\Computational Geometry\defult.cpp
+INPUT .\Computational Geometry\defult.cpp
+INPUT Computational Geometry\defult.cpp
+INPUT .\Computational Geometry\ConvexHull.cpp
+INPUT .\Computational Geometry\ConvexHull.cpp
+INPUT Computational Geometry\ConvexHull.cpp
+INPUT .\Computational Geometry\PtSegDist.cpp
+INPUT .\Computational Geometry\PtSegDist.cpp
+INPUT Computational Geometry\PtSegDist.cpp
+INPUT .\Computational Geometry\inpoly.cpp
+INPUT .\Computational Geometry\inpoly.cpp
+INPUT Computational Geometry\inpoly.cpp
 INPUT .\flow\dinic.cpp
 INPUT .\flow\dinic.cpp
 INPUT flow\dinic.cpp
 INPUT .\string\SAIS.cpp
 INPUT .\string\SAIS.cpp
 INPUT string\SAIS.cpp
+INPUT .\string\KMP.cpp
+INPUT .\string\KMP.cpp
+INPUT string\KMP.cpp
 INPUT .\useful\areaofrect.cpp
 INPUT .\useful\areaofrect.cpp
 INPUT useful\areaofrect.cpp
