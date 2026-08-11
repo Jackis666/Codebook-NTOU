@@ -1,6 +1,6 @@
-PWD d:\Codebook\Codebook-NTOU
+PWD d:\GITHUB\Codebook-NTOU
 INPUT C:\Users\Jackis666\AppData\Local\MiKTeX\miktex\data\le\xetex\xelatex.fmt
-INPUT d:\Codebook\Codebook-NTOU\codebook.tex
+INPUT d:\GITHUB\Codebook-NTOU\codebook.tex
 OUTPUT codebook.log
 INPUT C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
 INPUT C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex\latex\base\article.cls
@@ -244,19 +244,13 @@ INPUT math\basic
 INPUT .\math\pow.cpp
 INPUT .\math\pow.cpp
 INPUT math\pow.cpp
-INPUT .\math\bigmath.cpp
-INPUT .\math\bigmath.cpp
-INPUT math\bigmath.cpp
-OUTPUT codebook.xdv
-INPUT .\math\sort_of_point.cpp
-INPUT .\math\sort_of_point.cpp
-INPUT math\sort_of_point.cpp
 INPUT .\math\exgcd.cpp
 INPUT .\math\exgcd.cpp
 INPUT math\exgcd.cpp
 INPUT .\math\phi.cpp
 INPUT .\math\phi.cpp
 INPUT math\phi.cpp
+OUTPUT codebook.xdv
 INPUT .\binary search\binary search.cpp
 INPUT .\binary search\binary search.cpp
 INPUT binary search\binary search.cpp
@@ -290,12 +284,18 @@ INPUT graph\lca.cpp
 INPUT .\graph\km.cpp
 INPUT .\graph\km.cpp
 INPUT graph\km.cpp
+INPUT .\graph\Scc.cpp
+INPUT .\graph\Scc.cpp
+INPUT graph\Scc.cpp
 INPUT .\dynamic programming\SOS.cpp
 INPUT .\dynamic programming\SOS.cpp
 INPUT dynamic programming\SOS.cpp
 INPUT .\Computational Geometry\defult.cpp
 INPUT .\Computational Geometry\defult.cpp
 INPUT Computational Geometry\defult.cpp
+INPUT .\math\sort_of_point.cpp
+INPUT .\math\sort_of_point.cpp
+INPUT math\sort_of_point.cpp
 INPUT .\Computational Geometry\ConvexHull.cpp
 INPUT .\Computational Geometry\ConvexHull.cpp
 INPUT Computational Geometry\ConvexHull.cpp
