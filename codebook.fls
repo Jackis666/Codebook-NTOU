@@ -238,19 +238,6 @@ INPUT basic\coolthings.cpp
 INPUT .\basic\random.cpp
 INPUT .\basic\random.cpp
 INPUT basic\random.cpp
-INPUT .\math\basic
-INPUT .\math\basic
-INPUT math\basic
-INPUT .\math\pow.cpp
-INPUT .\math\pow.cpp
-INPUT math\pow.cpp
-INPUT .\math\exgcd.cpp
-INPUT .\math\exgcd.cpp
-INPUT math\exgcd.cpp
-INPUT .\math\phi.cpp
-INPUT .\math\phi.cpp
-INPUT math\phi.cpp
-OUTPUT codebook.xdv
 INPUT .\binary search\binary search.cpp
 INPUT .\binary search\binary search.cpp
 INPUT binary search\binary search.cpp
@@ -260,6 +247,7 @@ INPUT binary search\tenary search.cpp
 INPUT .\datastructure\dsu.cpp
 INPUT .\datastructure\dsu.cpp
 INPUT datastructure\dsu.cpp
+OUTPUT codebook.xdv
 INPUT .\datastructure\BIT.cpp
 INPUT .\datastructure\BIT.cpp
 INPUT datastructure\BIT.cpp
@@ -317,6 +305,21 @@ INPUT string\KMP.cpp
 INPUT .\useful\areaofrect.cpp
 INPUT .\useful\areaofrect.cpp
 INPUT useful\areaofrect.cpp
+INPUT .\math\basic
+INPUT .\math\basic
+INPUT math\basic
+INPUT .\math\pow.cpp
+INPUT .\math\pow.cpp
+INPUT math\pow.cpp
+INPUT .\math\exgcd.cpp
+INPUT .\math\exgcd.cpp
+INPUT math\exgcd.cpp
+INPUT .\math\phi.cpp
+INPUT .\math\phi.cpp
+INPUT math\phi.cpp
+INPUT .\math\FFT.cpp
+INPUT .\math\FFT.cpp
+INPUT math\FFT.cpp
 INPUT .\math\theorem.tex
 INPUT .\math\theorem.tex
 INPUT math\theorem.tex

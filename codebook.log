@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  13 AUG 2026 02:03
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  13 AUG 2026 02:17
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -667,7 +667,7 @@ LaTeX Font Warning: Font shape `TU/Monaco(0)/m/it' undefined
 LaTeX Font Warning: Font shape `TU/NotoSansTC(0)/m/it' undefined
 (Font)              using `TU/NotoSansTC(0)/m/n' instead on input line 2.
 
-) (basic/random.cpp) (math/basic) (math/pow.cpp) (math/exgcd.cpp) (math/phi.cpp
+) (basic/random.cpp) (binary search/binary search.cpp) (binary search/tenary search.cpp) (datastructure/dsu.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
@@ -675,67 +675,72 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [1
 
-]) (binary search/binary search.cpp) (binary search/tenary search.cpp) (datastructure/dsu.cpp) (datastructure/BIT.cpp) (datastructure/BIT_2D.cpp
+]) (datastructure/BIT.cpp) (datastructure/BIT_2D.cpp) (datastructure/Seg.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[2]) (datastructure/Seg.cpp) (graph/topo.cpp) (graph/bellman.cpp)
+[2]) (graph/topo.cpp) (graph/bellman.cpp) (graph/ola.cpp) (graph/lca.cpp) (graph/km.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[3] (graph/ola.cpp) (graph/lca.cpp) (graph/km.cpp) (graph/Scc.cpp)
+[3]) (graph/Scc.cpp) (dynamic programming/SOS.cpp) (Computational Geometry/defult.cpp) (math/sort_of_point.cpp) (Computational Geometry/ConvexHull.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[4] (dynamic programming/SOS.cpp) (Computational Geometry/defult.cpp) (math/sort_of_point.cpp) (Computational Geometry/ConvexHull.cpp) (Computational Geometry/PtSegDist.cpp) (Computational Geometry/inpoly.cpp) (flow/dinic.cpp
+[4]) (Computational Geometry/PtSegDist.cpp) (Computational Geometry/inpoly.cpp) (flow/dinic.cpp) (string/SAIS.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[5]) (string/SAIS.cpp) (string/KMP.cpp) (useful/areaofrect.cpp
+[5]) (string/KMP.cpp) (useful/areaofrect.cpp) (math/basic) (math/pow.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[6]) (math/theorem.tex
+[6]) (math/exgcd.cpp) (math/phi.cpp) (math/FFT.cpp) (math/theorem.tex
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 13.
 
-) (math/prime.cpp)
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[7]) (math/prime.cpp)
 File: photo/mygo_frame_haruhikage.jpeg Graphic file (type bmp)
 <photo/mygo_frame_haruhikage.jpeg>
 
-Underfull \hbox (badness 2922) in paragraph at lines 1--260
+Underfull \hbox (badness 2922) in paragraph at lines 1--262
 []\TU/Consolas(0)/m/n/7 / * 12721, 13331, 14341, 75577, 123457, 222557, 556679
  []
 
 
-Underfull \hbox (badness 5741) in paragraph at lines 1--260
+Underfull \hbox (badness 5741) in paragraph at lines 1--262
 \TU/Consolas(0)/m/n/7 * 999983, 1097774749, 1076767633, 100102021, 999997771 *
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--260
+Underfull \hbox (badness 10000) in paragraph at lines 1--262
 \TU/Consolas(0)/m/n/7 1001010013, 1000512343, 987654361, 999991231 * 999888733,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--260
+Underfull \hbox (badness 10000) in paragraph at lines 1--262
 \TU/Consolas(0)/m/n/7 98789101, 987777733, 999991921, 1010101333 * 1010102101,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--260
+Underfull \hbox (badness 10000) in paragraph at lines 1--262
 \TU/Consolas(0)/m/n/7 1000000000039, 1000000000000037 * 2305843009213693951,
  []
 
@@ -744,13 +749,15 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[7]
+[8
+
+]
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[8
+[9
 
 ] (codebook.aux)
  ***********
@@ -763,12 +770,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 20397 strings out of 402986
- 445945 string characters out of 5447675
- 2224111 words of memory out of 5000000
- 48698 multiletter control sequences out of 15000+600000
+ 20435 strings out of 402986
+ 446322 string characters out of 5447675
+ 2232111 words of memory out of 5000000
+ 48733 multiletter control sequences out of 15000+600000
  629802 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,12n,94p,441b,1731s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on codebook.xdv (8 pages, 659560 bytes).
+Output written on codebook.xdv (9 pages, 695888 bytes).

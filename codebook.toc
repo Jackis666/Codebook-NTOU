@@ -2,41 +2,41 @@
 \contentsline {subsection}{\numberline {1.1}default}{1}{}%
 \contentsline {subsection}{\numberline {1.2}奇妙的東西}{1}{}%
 \contentsline {subsection}{\numberline {1.3}random}{1}{}%
-\contentsline {section}{\numberline {2}Math}{1}{}%
-\contentsline {subsection}{\numberline {2.1}basic}{1}{}%
-\contentsline {subsection}{\numberline {2.2}快速幂}{1}{}%
-\contentsline {subsection}{\numberline {2.3}ExGCD}{1}{}%
-\contentsline {subsection}{\numberline {2.4}Phi}{1}{}%
-\contentsline {section}{\numberline {3}Binary Search}{2}{}%
-\contentsline {subsection}{\numberline {3.1}二分搜}{2}{}%
-\contentsline {subsection}{\numberline {3.2}三分搜}{2}{}%
-\contentsline {section}{\numberline {4}DataStructure}{2}{}%
-\contentsline {subsection}{\numberline {4.1}DSU(並查集)}{2}{}%
-\contentsline {subsection}{\numberline {4.2}FenwickTree/BIT}{2}{}%
-\contentsline {subsection}{\numberline {4.3}二維BIT}{2}{}%
-\contentsline {subsection}{\numberline {4.4}Seg/線段樹}{3}{}%
-\contentsline {section}{\numberline {5}Graph}{3}{}%
-\contentsline {subsection}{\numberline {5.1}Topo/拓樸}{3}{}%
-\contentsline {subsection}{\numberline {5.2}bellman/邊長鬆弛}{3}{}%
-\contentsline {subsection}{\numberline {5.3}ola/歐拉}{4}{}%
-\contentsline {subsection}{\numberline {5.4}LCA/最近公共祖先}{4}{}%
-\contentsline {subsection}{\numberline {5.5}km/二分圖最大權匹配}{4}{}%
-\contentsline {subsection}{\numberline {5.6}Scc/強連通分量}{4}{}%
-\contentsline {section}{\numberline {6}dynamic programming}{5}{}%
-\contentsline {subsection}{\numberline {6.1}SOS DP}{5}{}%
-\contentsline {section}{\numberline {7}Computational Geometry}{5}{}%
-\contentsline {subsection}{\numberline {7.1}defult}{5}{}%
-\contentsline {subsection}{\numberline {7.2}極座標排序}{5}{}%
-\contentsline {subsection}{\numberline {7.3}ConvexHull/凸包}{5}{}%
-\contentsline {subsection}{\numberline {7.4}PtSegDist}{5}{}%
-\contentsline {subsection}{\numberline {7.5}點是否在多邊形內}{5}{}%
-\contentsline {section}{\numberline {8}Flow}{5}{}%
-\contentsline {subsection}{\numberline {8.1}Dinic}{5}{}%
-\contentsline {section}{\numberline {9}String}{6}{}%
-\contentsline {subsection}{\numberline {9.1}SAIS}{6}{}%
-\contentsline {subsection}{\numberline {9.2}KMP}{6}{}%
-\contentsline {section}{\numberline {10}酷東西可能會用到}{6}{}%
-\contentsline {subsection}{\numberline {10.1}areaofrect/矩形聯集面積}{6}{}%
-\contentsline {section}{\numberline {11}Math2}{7}{}%
-\contentsline {subsection}{\numberline {11.1}Theorem}{7}{}%
-\contentsline {subsection}{\numberline {11.2}Prime}{7}{}%
+\contentsline {section}{\numberline {2}Binary Search}{1}{}%
+\contentsline {subsection}{\numberline {2.1}二分搜}{1}{}%
+\contentsline {subsection}{\numberline {2.2}三分搜}{1}{}%
+\contentsline {section}{\numberline {3}DataStructure}{1}{}%
+\contentsline {subsection}{\numberline {3.1}DSU(並查集)}{1}{}%
+\contentsline {subsection}{\numberline {3.2}FenwickTree/BIT}{2}{}%
+\contentsline {subsection}{\numberline {3.3}二維BIT}{2}{}%
+\contentsline {subsection}{\numberline {3.4}Seg/線段樹}{2}{}%
+\contentsline {section}{\numberline {4}Graph}{3}{}%
+\contentsline {subsection}{\numberline {4.1}Topo/拓樸}{3}{}%
+\contentsline {subsection}{\numberline {4.2}bellman/邊長鬆弛}{3}{}%
+\contentsline {subsection}{\numberline {4.3}ola/歐拉}{3}{}%
+\contentsline {subsection}{\numberline {4.4}LCA/最近公共祖先}{3}{}%
+\contentsline {subsection}{\numberline {4.5}km/二分圖最大權匹配}{3}{}%
+\contentsline {subsection}{\numberline {4.6}Scc/強連通分量}{4}{}%
+\contentsline {section}{\numberline {5}dynamic programming}{4}{}%
+\contentsline {subsection}{\numberline {5.1}SOS DP}{4}{}%
+\contentsline {section}{\numberline {6}Computational Geometry}{4}{}%
+\contentsline {subsection}{\numberline {6.1}defult}{4}{}%
+\contentsline {subsection}{\numberline {6.2}極座標排序}{4}{}%
+\contentsline {subsection}{\numberline {6.3}ConvexHull/凸包}{4}{}%
+\contentsline {subsection}{\numberline {6.4}PtSegDist}{5}{}%
+\contentsline {subsection}{\numberline {6.5}點是否在多邊形內}{5}{}%
+\contentsline {section}{\numberline {7}Flow}{5}{}%
+\contentsline {subsection}{\numberline {7.1}Dinic}{5}{}%
+\contentsline {section}{\numberline {8}String}{5}{}%
+\contentsline {subsection}{\numberline {8.1}SAIS}{5}{}%
+\contentsline {subsection}{\numberline {8.2}KMP}{6}{}%
+\contentsline {section}{\numberline {9}酷東西可能會用到}{6}{}%
+\contentsline {subsection}{\numberline {9.1}areaofrect/矩形聯集面積}{6}{}%
+\contentsline {section}{\numberline {10}Math}{6}{}%
+\contentsline {subsection}{\numberline {10.1}basic}{6}{}%
+\contentsline {subsection}{\numberline {10.2}快速幂}{6}{}%
+\contentsline {subsection}{\numberline {10.3}ExGCD}{7}{}%
+\contentsline {subsection}{\numberline {10.4}Phi}{7}{}%
+\contentsline {subsection}{\numberline {10.5}FFT/傅立葉轉換(多項式相乘)}{7}{}%
+\contentsline {subsection}{\numberline {10.6}Theorem}{7}{}%
+\contentsline {subsection}{\numberline {10.7}Prime}{8}{}%
