@@ -8,7 +8,7 @@
 ll magic[]={};
 bool witness(ll a,ll n,ll u,int t){
 	if(!a) return 0;
-	ll x=mypow(a,u,n);
+	ll x=mypow(a,u,n);//ksm(x,y,mod)
 	for(int i=0;i<t;i++) {
 		ll nx=mul(x,x,n);
 		if(nx==1&&x!=1&&x!=n-1) return 1;
