@@ -305,9 +305,9 @@ INPUT string\KMP.cpp
 INPUT .\useful\areaofrect.cpp
 INPUT .\useful\areaofrect.cpp
 INPUT useful\areaofrect.cpp
-INPUT .\math\basic
-INPUT .\math\basic
-INPUT math\basic
+INPUT .\math\basic.cpp
+INPUT .\math\basic.cpp
+INPUT math\basic.cpp
 INPUT .\math\pow.cpp
 INPUT .\math\pow.cpp
 INPUT math\pow.cpp
@@ -317,6 +317,9 @@ INPUT math\exgcd.cpp
 INPUT .\math\phi.cpp
 INPUT .\math\phi.cpp
 INPUT math\phi.cpp
+INPUT .\math\miller_rabin.cpp
+INPUT .\math\miller_rabin.cpp
+INPUT math\miller_rabin.cpp
 INPUT .\math\FFT.cpp
 INPUT .\math\FFT.cpp
 INPUT math\FFT.cpp

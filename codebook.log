@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  13 AUG 2026 02:17
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  13 AUG 2026 02:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -699,13 +699,13 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[5]) (string/KMP.cpp) (useful/areaofrect.cpp) (math/basic) (math/pow.cpp
+[5]) (string/KMP.cpp) (useful/areaofrect.cpp) (math/basic.cpp) (math/pow.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[6]) (math/exgcd.cpp) (math/phi.cpp) (math/FFT.cpp) (math/theorem.tex
+[6]) (math/exgcd.cpp) (math/phi.cpp) (math/miller_rabin.cpp) (math/FFT.cpp) (math/theorem.tex
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
@@ -720,27 +720,27 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 File: photo/mygo_frame_haruhikage.jpeg Graphic file (type bmp)
 <photo/mygo_frame_haruhikage.jpeg>
 
-Underfull \hbox (badness 2922) in paragraph at lines 1--262
+Underfull \hbox (badness 2922) in paragraph at lines 1--267
 []\TU/Consolas(0)/m/n/7 / * 12721, 13331, 14341, 75577, 123457, 222557, 556679
  []
 
 
-Underfull \hbox (badness 5741) in paragraph at lines 1--262
+Underfull \hbox (badness 5741) in paragraph at lines 1--267
 \TU/Consolas(0)/m/n/7 * 999983, 1097774749, 1076767633, 100102021, 999997771 *
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--262
+Underfull \hbox (badness 10000) in paragraph at lines 1--267
 \TU/Consolas(0)/m/n/7 1001010013, 1000512343, 987654361, 999991231 * 999888733,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--262
+Underfull \hbox (badness 10000) in paragraph at lines 1--267
 \TU/Consolas(0)/m/n/7 98789101, 987777733, 999991921, 1010101333 * 1010102101,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--262
+Underfull \hbox (badness 10000) in paragraph at lines 1--267
 \TU/Consolas(0)/m/n/7 1000000000039, 1000000000000037 * 2305843009213693951,
  []
 
@@ -770,12 +770,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 20435 strings out of 402986
- 446322 string characters out of 5447675
- 2232111 words of memory out of 5000000
- 48733 multiletter control sequences out of 15000+600000
+ 20453 strings out of 402986
+ 446612 string characters out of 5447675
+ 2231111 words of memory out of 5000000
+ 48748 multiletter control sequences out of 15000+600000
  629802 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,12n,94p,441b,1731s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on codebook.xdv (9 pages, 695888 bytes).
+Output written on codebook.xdv (9 pages, 727204 bytes).

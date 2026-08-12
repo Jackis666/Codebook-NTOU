@@ -37,6 +37,7 @@
 \contentsline {subsection}{\numberline {10.2}快速幂}{6}{}%
 \contentsline {subsection}{\numberline {10.3}ExGCD}{7}{}%
 \contentsline {subsection}{\numberline {10.4}Phi}{7}{}%
-\contentsline {subsection}{\numberline {10.5}FFT/傅立葉轉換(多項式相乘)}{7}{}%
-\contentsline {subsection}{\numberline {10.6}Theorem}{7}{}%
-\contentsline {subsection}{\numberline {10.7}Prime}{8}{}%
+\contentsline {subsection}{\numberline {10.5}miller rabin/判斷質數}{7}{}%
+\contentsline {subsection}{\numberline {10.6}FFT/傅立葉轉換(多項式相乘)}{7}{}%
+\contentsline {subsection}{\numberline {10.7}Theorem}{7}{}%
+\contentsline {subsection}{\numberline {10.8}Prime}{8}{}%
