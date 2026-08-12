@@ -320,6 +320,9 @@ INPUT math\phi.cpp
 INPUT .\math\miller_rabin.cpp
 INPUT .\math\miller_rabin.cpp
 INPUT math\miller_rabin.cpp
+INPUT .\math\pollard_rho.cpp
+INPUT .\math\pollard_rho.cpp
+INPUT math\pollard_rho.cpp
 INPUT .\math\FFT.cpp
 INPUT .\math\FFT.cpp
 INPUT math\FFT.cpp

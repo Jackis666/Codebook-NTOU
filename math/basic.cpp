@@ -5,3 +5,6 @@ ll mul(ll x,ll y,ll mod){
 	// LL ret=x*y-(LL)((long double)x*y/mod+0.5)*mod;
 	return ret<0?ret+mod:ret;
 }
+ll add(int x,int y,int mod){
+    return (x+y)%mod;
+}
