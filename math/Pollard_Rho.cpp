@@ -10,6 +10,7 @@ ll pollard_rho(ll n) {
     return __gcd(p, n);
 }
 /*function<void(int)> fact=[&](int x){
+        if(x==1) return;
         if(miller_rabin(x)){
             f.push_back(x);return;}
         int tmp=pollard_rho(x);
