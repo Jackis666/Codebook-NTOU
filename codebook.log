@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  13 AUG 2026 03:13
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  14 AUG 2026 00:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -642,7 +642,12 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
  (C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-))
+)
+Overfull \hbox (3.14314pt too wide) detected at line 45
+\TU/Consolas(0)/m/n/7 10.10 
+ []
+
+)
 \tf@toc=\write4
 \openout4 = `codebook.toc'.
 
@@ -705,45 +710,23 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[6]) (math/exgcd.cpp) (math/phi.cpp) (math/miller_rabin.cpp) (math/pollard_rho.cpp) (math/FFT.cpp
+[6]) (math/Prime.cpp) (math/exgcd.cpp) (math/phi.cpp) (math/euler.cpp
+Missing character: There is no φ in font [.fonts/ttf/Monaco-Regular]/OT:language=dflt;!
+) (math/miller_rabin.cpp) (math/pollard_rho.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[7]) (math/theorem.tex
+[7]) (math/FFT.cpp) (math/theorem.tex
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 13.
 
-) (math/prime.cpp)
+)
 File: photo/mygo_frame_haruhikage.jpeg Graphic file (type bmp)
 <photo/mygo_frame_haruhikage.jpeg>
-
-Underfull \hbox (badness 2922) in paragraph at lines 1--270
-[]\TU/Consolas(0)/m/n/7 / * 12721, 13331, 14341, 75577, 123457, 222557, 556679
- []
-
-
-Underfull \hbox (badness 5741) in paragraph at lines 1--270
-\TU/Consolas(0)/m/n/7 * 999983, 1097774749, 1076767633, 100102021, 999997771 *
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--270
-\TU/Consolas(0)/m/n/7 1001010013, 1000512343, 987654361, 999991231 * 999888733,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--270
-\TU/Consolas(0)/m/n/7 98789101, 987777733, 999991921, 1010101333 * 1010102101,
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 1--270
-\TU/Consolas(0)/m/n/7 1000000000039, 1000000000000037 * 2305843009213693951,
- []
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -758,6 +741,14 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [9
 
+]
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[10
+
 ] (codebook.aux)
  ***********
 LaTeX2e <2025-11-01>
@@ -769,12 +760,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 20465 strings out of 402986
- 446816 string characters out of 5447675
- 2231111 words of memory out of 5000000
- 48757 multiletter control sequences out of 15000+600000
+ 20496 strings out of 402986
+ 447151 string characters out of 5447675
+ 2205111 words of memory out of 5000000
+ 48784 multiletter control sequences out of 15000+600000
  629802 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,12n,94p,441b,1731s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on codebook.xdv (9 pages, 746440 bytes).
+Output written on codebook.xdv (10 pages, 787412 bytes).
