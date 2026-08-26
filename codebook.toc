@@ -28,8 +28,8 @@
 \contentsline {section}{\numberline {7}Flow}{5}{}%
 \contentsline {subsection}{\numberline {7.1}Dinic}{5}{}%
 \contentsline {section}{\numberline {8}String}{5}{}%
-\contentsline {subsection}{\numberline {8.1}SAIS}{5}{}%
-\contentsline {subsection}{\numberline {8.2}KMP}{6}{}%
+\contentsline {subsection}{\numberline {8.1}KMP}{5}{}%
+\contentsline {subsection}{\numberline {8.2}SAIS}{5}{}%
 \contentsline {section}{\numberline {9}酷東西可能會用到}{6}{}%
 \contentsline {subsection}{\numberline {9.1}areaofrect/矩形聯集面積}{6}{}%
 \contentsline {section}{\numberline {10}Math}{6}{}%

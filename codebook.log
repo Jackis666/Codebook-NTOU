@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  14 AUG 2026 00:57
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  26 AUG 2026 20:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -698,13 +698,13 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[4]) (Computational Geometry/PtSegDist.cpp) (Computational Geometry/inpoly.cpp) (flow/dinic.cpp) (string/SAIS.cpp
+[4]) (Computational Geometry/PtSegDist.cpp) (Computational Geometry/inpoly.cpp) (flow/dinic.cpp) (string/KMP.cpp) (string/SAIS.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[5]) (string/KMP.cpp) (useful/areaofrect.cpp) (math/basic.cpp) (math/pow.cpp
+[5]) (useful/areaofrect.cpp) (math/basic.cpp) (math/pow.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
@@ -741,14 +741,6 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [9
 
-]
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[10
-
 ] (codebook.aux)
  ***********
 LaTeX2e <2025-11-01>
@@ -762,10 +754,10 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 Here is how much of TeX's memory you used:
  20496 strings out of 402986
  447151 string characters out of 5447675
- 2205111 words of memory out of 5000000
+ 2202112 words of memory out of 5000000
  48784 multiletter control sequences out of 15000+600000
  629802 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,12n,94p,441b,1731s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on codebook.xdv (10 pages, 787412 bytes).
+Output written on codebook.xdv (9 pages, 783732 bytes).
