@@ -5,8 +5,8 @@
 \contentsline {section}{\numberline {2}Binary Search}{1}{}%
 \contentsline {subsection}{\numberline {2.1}二分搜}{1}{}%
 \contentsline {subsection}{\numberline {2.2}三分搜}{1}{}%
-\contentsline {section}{\numberline {3}DataStructure}{1}{}%
-\contentsline {subsection}{\numberline {3.1}DSU(並查集)}{1}{}%
+\contentsline {section}{\numberline {3}DataStructure}{2}{}%
+\contentsline {subsection}{\numberline {3.1}DSU(並查集)}{2}{}%
 \contentsline {subsection}{\numberline {3.2}FenwickTree/BIT}{2}{}%
 \contentsline {subsection}{\numberline {3.3}二維BIT}{2}{}%
 \contentsline {subsection}{\numberline {3.4}Seg/線段樹}{2}{}%
@@ -22,14 +22,15 @@
 \contentsline {section}{\numberline {6}Computational Geometry}{4}{}%
 \contentsline {subsection}{\numberline {6.1}defult}{4}{}%
 \contentsline {subsection}{\numberline {6.2}極座標排序}{4}{}%
-\contentsline {subsection}{\numberline {6.3}ConvexHull/凸包}{4}{}%
+\contentsline {subsection}{\numberline {6.3}ConvexHull/凸包}{5}{}%
 \contentsline {subsection}{\numberline {6.4}PtSegDist}{5}{}%
 \contentsline {subsection}{\numberline {6.5}點是否在多邊形內}{5}{}%
+\contentsline {subsection}{\numberline {6.6}最遠點對/選轉卡尺}{5}{}%
 \contentsline {section}{\numberline {7}Flow}{5}{}%
 \contentsline {subsection}{\numberline {7.1}Dinic}{5}{}%
 \contentsline {section}{\numberline {8}String}{5}{}%
 \contentsline {subsection}{\numberline {8.1}KMP}{5}{}%
-\contentsline {subsection}{\numberline {8.2}SAIS}{5}{}%
+\contentsline {subsection}{\numberline {8.2}SAIS}{6}{}%
 \contentsline {section}{\numberline {9}酷東西可能會用到}{6}{}%
 \contentsline {subsection}{\numberline {9.1}areaofrect/矩形聯集面積}{6}{}%
 \contentsline {section}{\numberline {10}Math}{6}{}%
@@ -40,6 +41,6 @@
 \contentsline {subsection}{\numberline {10.5}Phi}{7}{}%
 \contentsline {subsection}{\numberline {10.6}Euler/歐拉函數}{7}{}%
 \contentsline {subsection}{\numberline {10.7}miller rabin/判斷質數}{7}{}%
-\contentsline {subsection}{\numberline {10.8}Pollard Rho/質因數分解}{7}{}%
+\contentsline {subsection}{\numberline {10.8}Pollard Rho/質因數分解}{8}{}%
 \contentsline {subsection}{\numberline {10.9}FFT/傅立葉轉換(多項式相乘)}{8}{}%
 \contentsline {subsection}{\numberline {10.10}Theorem}{8}{}%

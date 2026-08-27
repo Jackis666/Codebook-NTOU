@@ -244,10 +244,10 @@ INPUT binary search\binary search.cpp
 INPUT .\binary search\tenary search.cpp
 INPUT .\binary search\tenary search.cpp
 INPUT binary search\tenary search.cpp
+OUTPUT codebook.xdv
 INPUT .\datastructure\dsu.cpp
 INPUT .\datastructure\dsu.cpp
 INPUT datastructure\dsu.cpp
-OUTPUT codebook.xdv
 INPUT .\datastructure\BIT.cpp
 INPUT .\datastructure\BIT.cpp
 INPUT datastructure\BIT.cpp
@@ -293,6 +293,9 @@ INPUT Computational Geometry\PtSegDist.cpp
 INPUT .\Computational Geometry\inpoly.cpp
 INPUT .\Computational Geometry\inpoly.cpp
 INPUT Computational Geometry\inpoly.cpp
+INPUT .\Computational Geometry\選轉卡尺.cpp
+INPUT .\Computational Geometry\選轉卡尺.cpp
+INPUT Computational Geometry\選轉卡尺.cpp
 INPUT .\flow\dinic.cpp
 INPUT .\flow\dinic.cpp
 INPUT flow\dinic.cpp
