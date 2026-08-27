@@ -305,6 +305,9 @@ INPUT string\KMP.cpp
 INPUT .\string\zvalue.cpp
 INPUT .\string\zvalue.cpp
 INPUT string\zvalue.cpp
+INPUT .\string\馬拉車.cpp
+INPUT .\string\馬拉車.cpp
+INPUT string\馬拉車.cpp
 INPUT .\string\minRotation.cpp
 INPUT .\string\minRotation.cpp
 INPUT string\minRotation.cpp
