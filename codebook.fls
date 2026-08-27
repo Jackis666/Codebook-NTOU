@@ -302,6 +302,12 @@ INPUT flow\dinic.cpp
 INPUT .\string\KMP.cpp
 INPUT .\string\KMP.cpp
 INPUT string\KMP.cpp
+INPUT .\string\zvalue.cpp
+INPUT .\string\zvalue.cpp
+INPUT string\zvalue.cpp
+INPUT .\string\minRotation.cpp
+INPUT .\string\minRotation.cpp
+INPUT string\minRotation.cpp
 INPUT .\string\SAIS.cpp
 INPUT .\string\SAIS.cpp
 INPUT string\SAIS.cpp
