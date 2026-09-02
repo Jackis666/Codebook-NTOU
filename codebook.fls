@@ -314,6 +314,9 @@ INPUT string\minRotation.cpp
 INPUT .\string\SAIS.cpp
 INPUT .\string\SAIS.cpp
 INPUT string\SAIS.cpp
+INPUT .\string\ACautomata.cpp
+INPUT .\string\ACautomata.cpp
+INPUT string\ACautomata.cpp
 INPUT .\useful\areaofrect.cpp
 INPUT .\useful\areaofrect.cpp
 INPUT useful\areaofrect.cpp
