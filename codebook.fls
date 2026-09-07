@@ -326,6 +326,9 @@ INPUT math\basic.cpp
 INPUT .\math\pow.cpp
 INPUT .\math\pow.cpp
 INPUT math\pow.cpp
+INPUT .\math\bigmath.cpp
+INPUT .\math\bigmath.cpp
+INPUT math\bigmath.cpp
 INPUT .\math\Prime.cpp
 INPUT .\math\Prime.cpp
 INPUT math\Prime.cpp

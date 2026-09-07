@@ -40,11 +40,12 @@
 \contentsline {section}{\numberline {10}Math}{7}{}%
 \contentsline {subsection}{\numberline {10.1}basic}{7}{}%
 \contentsline {subsection}{\numberline {10.2}快速幂}{7}{}%
-\contentsline {subsection}{\numberline {10.3}Prime}{7}{}%
-\contentsline {subsection}{\numberline {10.4}ExGCD}{8}{}%
-\contentsline {subsection}{\numberline {10.5}Phi}{8}{}%
-\contentsline {subsection}{\numberline {10.6}Euler/歐拉函數}{8}{}%
-\contentsline {subsection}{\numberline {10.7}miller rabin/判斷質數}{8}{}%
-\contentsline {subsection}{\numberline {10.8}Pollard Rho/質因數分解}{8}{}%
-\contentsline {subsection}{\numberline {10.9}FFT/傅立葉轉換(多項式相乘)}{8}{}%
-\contentsline {subsection}{\numberline {10.10}Theorem}{9}{}%
+\contentsline {subsection}{\numberline {10.3}大數運算}{7}{}%
+\contentsline {subsection}{\numberline {10.4}Prime}{8}{}%
+\contentsline {subsection}{\numberline {10.5}ExGCD}{8}{}%
+\contentsline {subsection}{\numberline {10.6}Phi}{8}{}%
+\contentsline {subsection}{\numberline {10.7}Euler/歐拉函數}{8}{}%
+\contentsline {subsection}{\numberline {10.8}miller rabin/判斷質數}{9}{}%
+\contentsline {subsection}{\numberline {10.9}Pollard Rho/質因數分解}{9}{}%
+\contentsline {subsection}{\numberline {10.10}FFT/傅立葉轉換(多項式相乘)}{9}{}%
+\contentsline {subsection}{\numberline {10.11}Theorem}{9}{}%
