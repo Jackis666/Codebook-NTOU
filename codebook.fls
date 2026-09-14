@@ -317,6 +317,9 @@ INPUT string\minRotation.cpp
 INPUT .\string\SAIS.cpp
 INPUT .\string\SAIS.cpp
 INPUT string\SAIS.cpp
+INPUT .\string\trie.cpp
+INPUT .\string\trie.cpp
+INPUT string\trie.cpp
 INPUT .\string\ACautomata.cpp
 INPUT .\string\ACautomata.cpp
 INPUT string\ACautomata.cpp

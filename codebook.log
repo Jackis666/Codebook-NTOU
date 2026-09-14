@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  14 SEP 2026 23:14
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  14 SEP 2026 23:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -643,12 +643,12 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 2.
  (C:\Users\Jackis666\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (3.14314pt too wide) detected at line 51
+Overfull \hbox (3.14314pt too wide) detected at line 52
 \TU/Consolas(0)/m/n/7 10.10 
  []
 
 
-Overfull \hbox (3.14314pt too wide) detected at line 52
+Overfull \hbox (3.14314pt too wide) detected at line 53
 \TU/Consolas(0)/m/n/7 10.11 
  []
 
@@ -715,27 +715,27 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[6]) (string/ACautomata.cpp) (useful/areaofrect.cpp) (math/basic.cpp) (math/pow.cpp
+[6]) (string/trie.cpp) (string/ACautomata.cpp) (useful/areaofrect.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[7]) (math/bigmath.cpp) (math/Prime.cpp
+[7]) (math/basic.cpp) (math/pow.cpp) (math/bigmath.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[8]) (math/exgcd.cpp) (math/phi.cpp) (math/euler.cpp
+[8]) (math/Prime.cpp) (math/exgcd.cpp) (math/phi.cpp) (math/euler.cpp
 Missing character: There is no φ in font [.fonts/ttf/Monaco-Regular]/OT:language=dflt;!
-) (math/miller_rabin.cpp) (math/pollard_rho.cpp) (math/FFT.cpp
+) (math/miller_rabin.cpp) (math/pollard_rho.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[9]) (math/theorem.tex
+[9]) (math/FFT.cpp) (math/theorem.tex
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
@@ -769,12 +769,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 20624 strings out of 402986
- 448914 string characters out of 5447675
+ 20641 strings out of 402986
+ 449144 string characters out of 5447675
  2208112 words of memory out of 5000000
- 48891 multiletter control sequences out of 15000+600000
+ 48905 multiletter control sequences out of 15000+600000
  629802 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,12n,94p,441b,1731s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on codebook.xdv (11 pages, 956956 bytes).
+Output written on codebook.xdv (11 pages, 987680 bytes).
