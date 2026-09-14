@@ -275,6 +275,9 @@ INPUT graph\km.cpp
 INPUT .\graph\Scc.cpp
 INPUT .\graph\Scc.cpp
 INPUT graph\Scc.cpp
+INPUT .\graph\Bcc.cpp
+INPUT .\graph\Bcc.cpp
+INPUT graph\Bcc.cpp
 INPUT .\dynamic programming\SOS.cpp
 INPUT .\dynamic programming\SOS.cpp
 INPUT dynamic programming\SOS.cpp
