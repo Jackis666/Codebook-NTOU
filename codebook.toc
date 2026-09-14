@@ -37,6 +37,7 @@
 \contentsline {subsection}{\numberline {8.5}SAIS}{6}{}%
 \contentsline {subsection}{\numberline {8.6}Trie/字典樹}{7}{}%
 \contentsline {subsection}{\numberline {8.7}ACautomata/AC自動機}{7}{}%
+\contentsline {subsection}{\numberline {8.8}差分約束系統}{7}{}%
 \contentsline {section}{\numberline {9}酷東西可能會用到}{7}{}%
 \contentsline {subsection}{\numberline {9.1}areaofrect/矩形聯集面積}{7}{}%
 \contentsline {section}{\numberline {10}Math}{8}{}%
@@ -48,6 +49,6 @@
 \contentsline {subsection}{\numberline {10.6}Phi}{9}{}%
 \contentsline {subsection}{\numberline {10.7}Euler/歐拉函數}{9}{}%
 \contentsline {subsection}{\numberline {10.8}miller rabin/判斷質數}{9}{}%
-\contentsline {subsection}{\numberline {10.9}Pollard Rho/質因數分解}{9}{}%
+\contentsline {subsection}{\numberline {10.9}Pollard Rho/質因數分解}{10}{}%
 \contentsline {subsection}{\numberline {10.10}FFT/傅立葉轉換(多項式相乘)}{10}{}%
 \contentsline {subsection}{\numberline {10.11}Theorem}{10}{}%
