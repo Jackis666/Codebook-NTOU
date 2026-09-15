@@ -278,6 +278,9 @@ INPUT graph\Bcc.cpp
 INPUT .\dynamic programming\SOS.cpp
 INPUT .\dynamic programming\SOS.cpp
 INPUT dynamic programming\SOS.cpp
+INPUT .\dynamic programming\p_median.cpp
+INPUT .\dynamic programming\p_median.cpp
+INPUT dynamic programming\p_median.cpp
 INPUT .\Computational Geometry\defult.cpp
 INPUT .\Computational Geometry\defult.cpp
 INPUT Computational Geometry\defult.cpp

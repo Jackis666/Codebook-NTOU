@@ -19,9 +19,10 @@
 \contentsline {subsection}{\numberline {4.6}Bcc/雙連通分量}{4}{}%
 \contentsline {section}{\numberline {5}dynamic programming}{4}{}%
 \contentsline {subsection}{\numberline {5.1}SOS DP}{4}{}%
+\contentsline {subsection}{\numberline {5.2}p-median}{4}{}%
 \contentsline {section}{\numberline {6}Computational Geometry}{4}{}%
 \contentsline {subsection}{\numberline {6.1}defult}{4}{}%
-\contentsline {subsection}{\numberline {6.2}Circle}{4}{}%
+\contentsline {subsection}{\numberline {6.2}Circle}{5}{}%
 \contentsline {subsection}{\numberline {6.3}極座標排序}{5}{}%
 \contentsline {subsection}{\numberline {6.4}ConvexHull/凸包}{5}{}%
 \contentsline {subsection}{\numberline {6.5}PtSegDist}{5}{}%
@@ -29,7 +30,7 @@
 \contentsline {subsection}{\numberline {6.7}最遠點對/選轉卡尺}{5}{}%
 \contentsline {section}{\numberline {7}Flow}{5}{}%
 \contentsline {subsection}{\numberline {7.1}km/二分圖最大權匹配}{5}{}%
-\contentsline {subsection}{\numberline {7.2}Dinic}{5}{}%
+\contentsline {subsection}{\numberline {7.2}Dinic}{6}{}%
 \contentsline {section}{\numberline {8}String}{6}{}%
 \contentsline {subsection}{\numberline {8.1}KMP}{6}{}%
 \contentsline {subsection}{\numberline {8.2}Z-value}{6}{}%
@@ -39,8 +40,8 @@
 \contentsline {subsection}{\numberline {8.6}Trie/字典樹}{7}{}%
 \contentsline {subsection}{\numberline {8.7}ACautomata/AC自動機}{7}{}%
 \contentsline {subsection}{\numberline {8.8}差分約束系統}{7}{}%
-\contentsline {section}{\numberline {9}酷東西可能會用到}{7}{}%
-\contentsline {subsection}{\numberline {9.1}areaofrect/矩形聯集面積}{7}{}%
+\contentsline {section}{\numberline {9}酷東西可能會用到}{8}{}%
+\contentsline {subsection}{\numberline {9.1}areaofrect/矩形聯集面積}{8}{}%
 \contentsline {section}{\numberline {10}Math}{8}{}%
 \contentsline {subsection}{\numberline {10.1}basic}{8}{}%
 \contentsline {subsection}{\numberline {10.2}快速幂}{8}{}%
@@ -49,7 +50,7 @@
 \contentsline {subsection}{\numberline {10.5}ExGCD}{9}{}%
 \contentsline {subsection}{\numberline {10.6}Phi}{9}{}%
 \contentsline {subsection}{\numberline {10.7}Euler/歐拉函數}{9}{}%
-\contentsline {subsection}{\numberline {10.8}miller rabin/判斷質數}{9}{}%
+\contentsline {subsection}{\numberline {10.8}miller rabin/判斷質數}{10}{}%
 \contentsline {subsection}{\numberline {10.9}Pollard Rho/質因數分解}{10}{}%
 \contentsline {subsection}{\numberline {10.10}FFT/傅立葉轉換(多項式相乘)}{10}{}%
 \contentsline {subsection}{\numberline {10.11}Theorem}{10}{}%
