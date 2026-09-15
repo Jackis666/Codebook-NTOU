@@ -21,11 +21,12 @@
 \contentsline {subsection}{\numberline {5.1}SOS DP}{4}{}%
 \contentsline {section}{\numberline {6}Computational Geometry}{4}{}%
 \contentsline {subsection}{\numberline {6.1}defult}{4}{}%
-\contentsline {subsection}{\numberline {6.2}極座標排序}{4}{}%
-\contentsline {subsection}{\numberline {6.3}ConvexHull/凸包}{5}{}%
-\contentsline {subsection}{\numberline {6.4}PtSegDist}{5}{}%
-\contentsline {subsection}{\numberline {6.5}點是否在多邊形內}{5}{}%
-\contentsline {subsection}{\numberline {6.6}最遠點對/選轉卡尺}{5}{}%
+\contentsline {subsection}{\numberline {6.2}Circle}{4}{}%
+\contentsline {subsection}{\numberline {6.3}極座標排序}{5}{}%
+\contentsline {subsection}{\numberline {6.4}ConvexHull/凸包}{5}{}%
+\contentsline {subsection}{\numberline {6.5}PtSegDist}{5}{}%
+\contentsline {subsection}{\numberline {6.6}點是否在多邊形內}{5}{}%
+\contentsline {subsection}{\numberline {6.7}最遠點對/選轉卡尺}{5}{}%
 \contentsline {section}{\numberline {7}Flow}{5}{}%
 \contentsline {subsection}{\numberline {7.1}km/二分圖最大權匹配}{5}{}%
 \contentsline {subsection}{\numberline {7.2}Dinic}{5}{}%

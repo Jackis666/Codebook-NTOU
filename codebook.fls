@@ -281,6 +281,9 @@ INPUT dynamic programming\SOS.cpp
 INPUT .\Computational Geometry\defult.cpp
 INPUT .\Computational Geometry\defult.cpp
 INPUT Computational Geometry\defult.cpp
+INPUT .\Computational Geometry\circle.cpp
+INPUT .\Computational Geometry\circle.cpp
+INPUT Computational Geometry\circle.cpp
 INPUT .\math\sort_of_point.cpp
 INPUT .\math\sort_of_point.cpp
 INPUT math\sort_of_point.cpp
