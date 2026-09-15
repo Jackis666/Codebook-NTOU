@@ -269,9 +269,6 @@ INPUT graph\ola.cpp
 INPUT .\graph\lca.cpp
 INPUT .\graph\lca.cpp
 INPUT graph\lca.cpp
-INPUT .\graph\km.cpp
-INPUT .\graph\km.cpp
-INPUT graph\km.cpp
 INPUT .\graph\Scc.cpp
 INPUT .\graph\Scc.cpp
 INPUT graph\Scc.cpp
@@ -299,6 +296,9 @@ INPUT Computational Geometry\inpoly.cpp
 INPUT .\Computational Geometry\選轉卡尺.cpp
 INPUT .\Computational Geometry\選轉卡尺.cpp
 INPUT Computational Geometry\選轉卡尺.cpp
+INPUT .\flow\km.cpp
+INPUT .\flow\km.cpp
+INPUT flow\km.cpp
 INPUT .\flow\dinic.cpp
 INPUT .\flow\dinic.cpp
 INPUT flow\dinic.cpp
