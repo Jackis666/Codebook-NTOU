@@ -308,6 +308,9 @@ INPUT Computational Geometry\inpoly.cpp
 INPUT .\Computational Geometry\選轉卡尺.cpp
 INPUT .\Computational Geometry\選轉卡尺.cpp
 INPUT Computational Geometry\選轉卡尺.cpp
+INPUT .\Computational Geometry\closet pair.cpp
+INPUT .\Computational Geometry\closet pair.cpp
+INPUT Computational Geometry\closet pair.cpp
 INPUT .\flow\km.cpp
 INPUT .\flow\km.cpp
 INPUT flow\km.cpp
