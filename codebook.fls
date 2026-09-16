@@ -314,6 +314,9 @@ INPUT flow\km.cpp
 INPUT .\flow\dinic.cpp
 INPUT .\flow\dinic.cpp
 INPUT flow\dinic.cpp
+INPUT .\flow\hungarian.cpp
+INPUT .\flow\hungarian.cpp
+INPUT flow\hungarian.cpp
 INPUT .\string\KMP.cpp
 INPUT .\string\KMP.cpp
 INPUT string\KMP.cpp
