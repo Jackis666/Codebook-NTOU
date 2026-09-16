@@ -10,47 +10,49 @@
 \contentsline {subsection}{\numberline {3.2}FenwickTree/BIT}{2}{}%
 \contentsline {subsection}{\numberline {3.3}二維BIT}{2}{}%
 \contentsline {subsection}{\numberline {3.4}Seg/線段樹}{2}{}%
-\contentsline {section}{\numberline {4}Graph}{3}{}%
-\contentsline {subsection}{\numberline {4.1}Topo/拓樸}{3}{}%
-\contentsline {subsection}{\numberline {4.2}bellman/邊長鬆弛}{3}{}%
-\contentsline {subsection}{\numberline {4.3}ola/歐拉}{3}{}%
-\contentsline {subsection}{\numberline {4.4}LCA/最近公共祖先}{3}{}%
-\contentsline {subsection}{\numberline {4.5}Scc/強連通分量}{3}{}%
-\contentsline {subsection}{\numberline {4.6}Bcc/雙連通分量}{4}{}%
-\contentsline {section}{\numberline {5}dynamic programming}{4}{}%
-\contentsline {subsection}{\numberline {5.1}SOS DP}{4}{}%
-\contentsline {subsection}{\numberline {5.2}p-median}{4}{}%
-\contentsline {section}{\numberline {6}Computational Geometry}{4}{}%
-\contentsline {subsection}{\numberline {6.1}defult}{4}{}%
-\contentsline {subsection}{\numberline {6.2}Circle}{5}{}%
-\contentsline {subsection}{\numberline {6.3}極座標排序}{5}{}%
-\contentsline {subsection}{\numberline {6.4}ConvexHull/凸包}{5}{}%
-\contentsline {subsection}{\numberline {6.5}PtSegDist}{5}{}%
-\contentsline {subsection}{\numberline {6.6}點是否在多邊形內}{5}{}%
-\contentsline {subsection}{\numberline {6.7}最遠點對/選轉卡尺}{5}{}%
-\contentsline {section}{\numberline {7}Flow}{5}{}%
-\contentsline {subsection}{\numberline {7.1}km/二分圖最大權匹配}{5}{}%
+\contentsline {subsection}{\numberline {3.5}李超線段樹}{3}{}%
+\contentsline {subsection}{\numberline {3.6}SegTree Beats/線段樹 Beats}{3}{}%
+\contentsline {section}{\numberline {4}Graph}{4}{}%
+\contentsline {subsection}{\numberline {4.1}Topo/拓樸}{4}{}%
+\contentsline {subsection}{\numberline {4.2}bellman/邊長鬆弛}{4}{}%
+\contentsline {subsection}{\numberline {4.3}ola/歐拉}{4}{}%
+\contentsline {subsection}{\numberline {4.4}LCA/最近公共祖先}{4}{}%
+\contentsline {subsection}{\numberline {4.5}Scc/強連通分量}{4}{}%
+\contentsline {subsection}{\numberline {4.6}Bcc/雙連通分量}{5}{}%
+\contentsline {section}{\numberline {5}dynamic programming}{5}{}%
+\contentsline {subsection}{\numberline {5.1}SOS DP}{5}{}%
+\contentsline {subsection}{\numberline {5.2}p-median}{5}{}%
+\contentsline {section}{\numberline {6}Computational Geometry}{5}{}%
+\contentsline {subsection}{\numberline {6.1}defult}{5}{}%
+\contentsline {subsection}{\numberline {6.2}Circle}{6}{}%
+\contentsline {subsection}{\numberline {6.3}極座標排序}{6}{}%
+\contentsline {subsection}{\numberline {6.4}ConvexHull/凸包}{6}{}%
+\contentsline {subsection}{\numberline {6.5}PtSegDist}{6}{}%
+\contentsline {subsection}{\numberline {6.6}點是否在多邊形內}{6}{}%
+\contentsline {subsection}{\numberline {6.7}最遠點對/選轉卡尺}{6}{}%
+\contentsline {section}{\numberline {7}Flow}{6}{}%
+\contentsline {subsection}{\numberline {7.1}km/二分圖最大權匹配}{6}{}%
 \contentsline {subsection}{\numberline {7.2}Dinic}{6}{}%
-\contentsline {section}{\numberline {8}String}{6}{}%
-\contentsline {subsection}{\numberline {8.1}KMP}{6}{}%
-\contentsline {subsection}{\numberline {8.2}Z-value}{6}{}%
-\contentsline {subsection}{\numberline {8.3}馬拉車}{6}{}%
-\contentsline {subsection}{\numberline {8.4}minRotation/最小字典序旋轉}{6}{}%
-\contentsline {subsection}{\numberline {8.5}SAIS}{6}{}%
-\contentsline {subsection}{\numberline {8.6}Trie/字典樹}{7}{}%
-\contentsline {subsection}{\numberline {8.7}ACautomata/AC自動機}{7}{}%
-\contentsline {subsection}{\numberline {8.8}差分約束系統}{7}{}%
-\contentsline {section}{\numberline {9}酷東西可能會用到}{8}{}%
-\contentsline {subsection}{\numberline {9.1}areaofrect/矩形聯集面積}{8}{}%
-\contentsline {section}{\numberline {10}Math}{8}{}%
-\contentsline {subsection}{\numberline {10.1}basic}{8}{}%
-\contentsline {subsection}{\numberline {10.2}快速幂}{8}{}%
-\contentsline {subsection}{\numberline {10.3}大數運算}{8}{}%
-\contentsline {subsection}{\numberline {10.4}Prime}{9}{}%
-\contentsline {subsection}{\numberline {10.5}ExGCD}{9}{}%
-\contentsline {subsection}{\numberline {10.6}Phi}{9}{}%
-\contentsline {subsection}{\numberline {10.7}Euler/歐拉函數}{9}{}%
-\contentsline {subsection}{\numberline {10.8}miller rabin/判斷質數}{10}{}%
-\contentsline {subsection}{\numberline {10.9}Pollard Rho/質因數分解}{10}{}%
-\contentsline {subsection}{\numberline {10.10}FFT/傅立葉轉換(多項式相乘)}{10}{}%
-\contentsline {subsection}{\numberline {10.11}Theorem}{10}{}%
+\contentsline {section}{\numberline {8}String}{7}{}%
+\contentsline {subsection}{\numberline {8.1}KMP}{7}{}%
+\contentsline {subsection}{\numberline {8.2}Z-value}{7}{}%
+\contentsline {subsection}{\numberline {8.3}馬拉車}{7}{}%
+\contentsline {subsection}{\numberline {8.4}minRotation/最小字典序旋轉}{7}{}%
+\contentsline {subsection}{\numberline {8.5}SAIS}{7}{}%
+\contentsline {subsection}{\numberline {8.6}Trie/字典樹}{8}{}%
+\contentsline {subsection}{\numberline {8.7}ACautomata/AC自動機}{8}{}%
+\contentsline {subsection}{\numberline {8.8}差分約束系統}{8}{}%
+\contentsline {section}{\numberline {9}酷東西可能會用到}{9}{}%
+\contentsline {subsection}{\numberline {9.1}areaofrect/矩形聯集面積}{9}{}%
+\contentsline {section}{\numberline {10}Math}{9}{}%
+\contentsline {subsection}{\numberline {10.1}basic}{9}{}%
+\contentsline {subsection}{\numberline {10.2}快速幂}{9}{}%
+\contentsline {subsection}{\numberline {10.3}大數運算}{9}{}%
+\contentsline {subsection}{\numberline {10.4}Prime}{10}{}%
+\contentsline {subsection}{\numberline {10.5}ExGCD}{10}{}%
+\contentsline {subsection}{\numberline {10.6}Phi}{10}{}%
+\contentsline {subsection}{\numberline {10.7}Euler/歐拉函數}{10}{}%
+\contentsline {subsection}{\numberline {10.8}miller rabin/判斷質數}{11}{}%
+\contentsline {subsection}{\numberline {10.9}Pollard Rho/質因數分解}{11}{}%
+\contentsline {subsection}{\numberline {10.10}FFT/傅立葉轉換(多項式相乘)}{11}{}%
+\contentsline {subsection}{\numberline {10.11}Theorem}{11}{}%

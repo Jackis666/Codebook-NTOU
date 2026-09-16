@@ -257,6 +257,12 @@ INPUT datastructure\BIT_2D.cpp
 INPUT .\datastructure\Seg.cpp
 INPUT .\datastructure\Seg.cpp
 INPUT datastructure\Seg.cpp
+INPUT .\datastructure\lichaoseg.cpp
+INPUT .\datastructure\lichaoseg.cpp
+INPUT datastructure\lichaoseg.cpp
+INPUT .\datastructure\Segment_tree_beats.cpp
+INPUT .\datastructure\Segment_tree_beats.cpp
+INPUT datastructure\Segment_tree_beats.cpp
 INPUT .\graph\topo.cpp
 INPUT .\graph\topo.cpp
 INPUT graph\topo.cpp
