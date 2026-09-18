@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  18 SEP 2026 19:16
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  18 SEP 2026 20:59
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -687,13 +687,13 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[3]) (graph/topo.cpp) (graph/bellman.cpp) (graph/ola.cpp) (graph/lca.cpp) (graph/Scc.cpp
+[3]) (graph/topo.cpp) (graph/bellman.cpp) (graph/ola.cpp) (graph/lca.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[4]) (graph/Bcc.cpp) (graph/maxcilque.cpp
+[4]) (graph/Scc.cpp) (graph/Bcc.cpp) (graph/maxcilque.cpp
 Missing character: There is no 没 in font [.fonts/ttf/NotoSansTC-Regular.ttf]/OT:script=hani;language=dflt;!
 Missing character: There is no 连 in font [.fonts/ttf/NotoSansTC-Regular.ttf]/OT:script=hani;language=dflt;!
 ) (graph/平均最小團.cpp
@@ -720,56 +720,61 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[8]) (string/KMP.cpp) (string/zvalue.cpp) (string/馬拉車.cpp) (string/minRotation.cpp) (string/SAIS.cpp
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[9]) (string/trie.cpp) (string/ACautomata.cpp) (graph/conclusion.tex
+[8]) (flow/最小花費最大流SPFA.cpp) (flow/dijk_flow.cpp) (graph/conclusion.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--11
 
  []
 
 
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[9]
 Underfull \hbox (badness 10000) in paragraph at lines 11--23
 
  []
 
+) (string/KMP.cpp) (string/zvalue.cpp) (string/馬拉車.cpp) (string/minRotation.cpp) (string/SAIS.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[10]) (useful/areaofrect.cpp) (math/basic.cpp) (math/pow.cpp) (math/bigmath.cpp
+[10]) (string/trie.cpp) (string/ACautomata.cpp) (useful/areaofrect.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[11]) (math/Prime.cpp) (math/exgcd.cpp) (math/phi.cpp
+[11]) (math/basic.cpp) (math/pow.cpp) (math/bigmath.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[12]) (math/Prime.cpp) (math/exgcd.cpp) (math/phi.cpp
 Missing character: There is no φ in font [.fonts/ttf/Monaco-Regular]/OT:language=dflt;!
 ) (math/euler.cpp
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[12]
 Missing character: There is no φ in font [.fonts/ttf/Monaco-Regular]/OT:language=dflt;!
-) (math/miller_rabin.cpp) (math/pollard_rho.cpp) (math/FFT.cpp) (math/josephus.cpp) (math/BSGS.cpp
+) (math/miller_rabin.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[13]) (math/DiscreteSqrt.cpp) (math/theorem.tex
+[13]) (math/pollard_rho.cpp) (math/FFT.cpp) (math/josephus.cpp) (math/BSGS.cpp) (math/DiscreteSqrt.cpp) (math/theorem.tex
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 13.
 
-)
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[14])
 File: photo/mygo_frame_haruhikage.jpeg Graphic file (type bmp)
 <photo/mygo_frame_haruhikage.jpeg>
 
@@ -778,13 +783,13 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[14]
+[15]
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[15
+[16
 
 ]
 
@@ -792,7 +797,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[16] (codebook.aux)
+[17] (codebook.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
@@ -803,12 +808,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 20951 strings out of 402986
- 453838 string characters out of 5447675
- 2175115 words of memory out of 5000000
- 49160 multiletter control sequences out of 15000+600000
+ 21008 strings out of 402986
+ 454525 string characters out of 5447675
+ 2183115 words of memory out of 5000000
+ 49211 multiletter control sequences out of 15000+600000
  634471 words of font info for 98 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,12n,94p,441b,1731s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on codebook.xdv (16 pages, 1397792 bytes).
+Output written on codebook.xdv (17 pages, 1475316 bytes).

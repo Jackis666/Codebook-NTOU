@@ -241,9 +241,9 @@ INPUT basic\random.cpp
 INPUT .\binary search\binary search.cpp
 INPUT .\binary search\binary search.cpp
 INPUT binary search\binary search.cpp
-INPUT .\binary search\tenary search.cpp
-INPUT .\binary search\tenary search.cpp
 OUTPUT codebook.xdv
+INPUT .\binary search\tenary search.cpp
+INPUT .\binary search\tenary search.cpp
 INPUT binary search\tenary search.cpp
 INPUT .\datastructure\dsu.cpp
 INPUT .\datastructure\dsu.cpp
@@ -332,6 +332,15 @@ INPUT flow\dinic.cpp
 INPUT .\flow\hungarian.cpp
 INPUT .\flow\hungarian.cpp
 INPUT flow\hungarian.cpp
+INPUT .\flow\最小花費最大流SPFA.cpp
+INPUT .\flow\最小花費最大流SPFA.cpp
+INPUT flow\最小花費最大流SPFA.cpp
+INPUT .\flow\dijk_flow.cpp
+INPUT .\flow\dijk_flow.cpp
+INPUT flow\dijk_flow.cpp
+INPUT .\graph\conclusion.tex
+INPUT .\graph\conclusion.tex
+INPUT graph\conclusion.tex
 INPUT .\string\KMP.cpp
 INPUT .\string\KMP.cpp
 INPUT string\KMP.cpp
@@ -353,9 +362,6 @@ INPUT string\trie.cpp
 INPUT .\string\ACautomata.cpp
 INPUT .\string\ACautomata.cpp
 INPUT string\ACautomata.cpp
-INPUT .\graph\conclusion.tex
-INPUT .\graph\conclusion.tex
-INPUT graph\conclusion.tex
 INPUT .\useful\areaofrect.cpp
 INPUT .\useful\areaofrect.cpp
 INPUT useful\areaofrect.cpp

@@ -39,29 +39,31 @@
 \contentsline {subsection}{\numberline {7.1}km/二分圖最大權匹配}{8}{}%
 \contentsline {subsection}{\numberline {7.2}Dinic}{8}{}%
 \contentsline {subsection}{\numberline {7.3}hungarian/匈牙利演算法}{8}{}%
-\contentsline {section}{\numberline {8}String}{9}{}%
-\contentsline {subsection}{\numberline {8.1}KMP}{9}{}%
-\contentsline {subsection}{\numberline {8.2}Z-value}{9}{}%
-\contentsline {subsection}{\numberline {8.3}馬拉車}{9}{}%
-\contentsline {subsection}{\numberline {8.4}minRotation/最小字典序旋轉}{9}{}%
-\contentsline {subsection}{\numberline {8.5}SAIS}{9}{}%
-\contentsline {subsection}{\numberline {8.6}Trie/字典樹}{10}{}%
-\contentsline {subsection}{\numberline {8.7}ACautomata/AC自動機}{10}{}%
-\contentsline {subsection}{\numberline {8.8}差分約束系統}{10}{}%
+\contentsline {subsection}{\numberline {7.4}SPFA最小費流}{9}{}%
+\contentsline {subsection}{\numberline {7.5}dijk\_flow/最小費流}{9}{}%
+\contentsline {subsection}{\numberline {7.6}差分約束系統}{9}{}%
+\contentsline {section}{\numberline {8}String}{10}{}%
+\contentsline {subsection}{\numberline {8.1}KMP}{10}{}%
+\contentsline {subsection}{\numberline {8.2}Z-value}{10}{}%
+\contentsline {subsection}{\numberline {8.3}馬拉車}{10}{}%
+\contentsline {subsection}{\numberline {8.4}minRotation/最小字典序旋轉}{10}{}%
+\contentsline {subsection}{\numberline {8.5}SAIS}{10}{}%
+\contentsline {subsection}{\numberline {8.6}Trie/字典樹}{11}{}%
+\contentsline {subsection}{\numberline {8.7}ACautomata/AC自動機}{11}{}%
 \contentsline {section}{\numberline {9}酷東西可能會用到}{11}{}%
 \contentsline {subsection}{\numberline {9.1}areaofrect/矩形聯集面積}{11}{}%
-\contentsline {section}{\numberline {10}Math}{11}{}%
-\contentsline {subsection}{\numberline {10.1}basic}{11}{}%
-\contentsline {subsection}{\numberline {10.2}快速幂}{11}{}%
-\contentsline {subsection}{\numberline {10.3}大數運算}{11}{}%
-\contentsline {subsection}{\numberline {10.4}Prime}{12}{}%
-\contentsline {subsection}{\numberline {10.5}ExGCD}{12}{}%
-\contentsline {subsection}{\numberline {10.6}Phi}{12}{}%
+\contentsline {section}{\numberline {10}Math}{12}{}%
+\contentsline {subsection}{\numberline {10.1}basic}{12}{}%
+\contentsline {subsection}{\numberline {10.2}快速幂}{12}{}%
+\contentsline {subsection}{\numberline {10.3}大數運算}{12}{}%
+\contentsline {subsection}{\numberline {10.4}Prime}{13}{}%
+\contentsline {subsection}{\numberline {10.5}ExGCD}{13}{}%
+\contentsline {subsection}{\numberline {10.6}Phi}{13}{}%
 \contentsline {subsection}{\numberline {10.7}Euler/歐拉函數}{13}{}%
 \contentsline {subsection}{\numberline {10.8}miller rabin/判斷質數}{13}{}%
-\contentsline {subsection}{\numberline {10.9}Pollard Rho/質因數分解}{13}{}%
-\contentsline {subsection}{\numberline {10.10}FFT/傅立葉轉換(多項式相乘)}{13}{}%
-\contentsline {subsection}{\numberline {10.11}josephus/約瑟夫問題}{13}{}%
-\contentsline {subsection}{\numberline {10.12}BSGS}{13}{}%
+\contentsline {subsection}{\numberline {10.9}Pollard Rho/質因數分解}{14}{}%
+\contentsline {subsection}{\numberline {10.10}FFT/傅立葉轉換(多項式相乘)}{14}{}%
+\contentsline {subsection}{\numberline {10.11}josephus/約瑟夫問題}{14}{}%
+\contentsline {subsection}{\numberline {10.12}BSGS}{14}{}%
 \contentsline {subsection}{\numberline {10.13}$x^2 \pmod p == a$}{14}{}%
 \contentsline {subsection}{\numberline {10.14}Theorem}{14}{}%
