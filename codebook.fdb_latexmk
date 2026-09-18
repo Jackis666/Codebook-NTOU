@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1789726532.0825 "codebook.xdv" "codebook.pdf" "codebook" 1789726532.66016 0
-  "codebook.xdv" 1789726531 1252900 46969b8df21eb2f39ea8d2373d74d14c "xelatex"
+["xdvipdfmx"] 1789729356.21087 "codebook.xdv" "codebook.pdf" "codebook" 1789729356.80103 0
+  "codebook.xdv" 1789729355 1344764 da637ca3081c38b56fb11756f4dd7409 "xelatex"
   (generated)
   "codebook.pdf"
   (rewritten before read)
-["xelatex"] 1789726528.33785 "d:/GITHUB/Codebook-NTOU/codebook.tex" "codebook.xdv" "codebook" 1789726532.65266 0
+["xelatex"] 1789729351.80251 "d:/GITHUB/Codebook-NTOU/codebook.tex" "codebook.xdv" "codebook" 1789729356.79358 0
   "C:/Users/Jackis666/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1768460476 27178390 43a9fe56a5275703fe0f645eaac894c7 ""
   "C:/Users/Jackis666/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/Jackis666/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/symbols/msam5.tfm" 1233951854 924 9904cf1d39e9767e7a3622f2a125a565 ""
@@ -136,10 +136,10 @@
   "basic/random.cpp" 1786460820 195 af3a9ca87c4dfb6af5a8044c90c78d95 ""
   "binary search/binary search.cpp" 1786460820 925 cf8a229fbd6022876d34196afbd0796d ""
   "binary search/tenary search.cpp" 1786460820 280 2cd2f4c4bd70a5e6c3a9a1d5b76e1947 ""
-  "codebook.aux" 1789726531 11860 d750c4746e0d5c5bd020b84935fe26d2 "xelatex"
-  "codebook.tex" 1789726367 10837 1ef7e8892f0d2f3661f1a5c49ad30e95 ""
-  "codebook.toc" 1789726531 4139 d50ea07dfe0ab070b9b790aca2ceccae "xelatex"
-  "d:/GITHUB/Codebook-NTOU/codebook.tex" 1789726367 10837 1ef7e8892f0d2f3661f1a5c49ad30e95 ""
+  "codebook.aux" 1789729355 12270 f03afee8a8d2d5d436880d72219b4aa8 "xelatex"
+  "codebook.tex" 1789729297 10995 5c1097f4263cad8a034701d811706dcc ""
+  "codebook.toc" 1789729355 4269 a9f6da326b386a3c65dc33bfa20f33f3 "xelatex"
+  "d:/GITHUB/Codebook-NTOU/codebook.tex" 1789729297 10995 5c1097f4263cad8a034701d811706dcc ""
   "datastructure/BIT.cpp" 1786460820 781 cd6b844a01fd08ff3f68df9e9484a1b9 ""
   "datastructure/BIT_2D.cpp" 1786460820 693 6d875bb0a785d16a45127c5fa2ddb6d3 ""
   "datastructure/Seg.cpp" 1786460820 2519 2925bd2e9c37082d7a140e6685371f41 ""
@@ -156,9 +156,11 @@
   "graph/bellman.cpp" 1786460820 464 2bbd5714f5609e32d15ad72cd458110f ""
   "graph/conclusion.tex" 1789401684 1270 6b1c8d753ee37ae4072d74040de17b59 ""
   "graph/lca.cpp" 1786460820 1229 5146dbf38e9e9b0173c8a675dc268e70 ""
-  "graph/maxcilque.cpp" 1789726527 1995 c67634096469a7769e35a6a6bd1665f4 ""
+  "graph/maxcilque.cpp" 1789729023 1995 c67634096469a7769e35a6a6bd1665f4 ""
   "graph/ola.cpp" 1786460820 571 fd266b999cf089161f382bf492730979 ""
   "graph/topo.cpp" 1786460820 432 c032ccadfbe761bb645024defbb92ec6 ""
+  "graph/支配點.cpp" 1789729350 1968 2c368e8bd193dcd909cc7ce1147173ff ""
+  "graph/平均最小團.cpp" 1789729123 1692 a3eb28f1277f92a997dfed3703a8d4d2 ""
   "math/FFT.cpp" 1786558502 1387 302d04a68ff6d5f7051e6ada29e19328 ""
   "math/Prime.cpp" 1786639933 1053 8fa656841fd8fe162d0aff961efb4056 ""
   "math/basic.cpp" 1786561816 243 03d8e75eb78f3ddff27eada5b751e5f6 ""

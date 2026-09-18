@@ -243,8 +243,8 @@ INPUT .\binary search\binary search.cpp
 INPUT binary search\binary search.cpp
 INPUT .\binary search\tenary search.cpp
 INPUT .\binary search\tenary search.cpp
-INPUT binary search\tenary search.cpp
 OUTPUT codebook.xdv
+INPUT binary search\tenary search.cpp
 INPUT .\datastructure\dsu.cpp
 INPUT .\datastructure\dsu.cpp
 INPUT datastructure\dsu.cpp
@@ -284,6 +284,12 @@ INPUT graph\Bcc.cpp
 INPUT .\graph\maxcilque.cpp
 INPUT .\graph\maxcilque.cpp
 INPUT graph\maxcilque.cpp
+INPUT .\graph\平均最小團.cpp
+INPUT .\graph\平均最小團.cpp
+INPUT graph\平均最小團.cpp
+INPUT .\graph\支配點.cpp
+INPUT .\graph\支配點.cpp
+INPUT graph\支配點.cpp
 INPUT .\dynamic programming\SOS.cpp
 INPUT .\dynamic programming\SOS.cpp
 INPUT dynamic programming\SOS.cpp
