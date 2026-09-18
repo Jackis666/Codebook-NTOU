@@ -380,6 +380,9 @@ INPUT math\pollard_rho.cpp
 INPUT .\math\FFT.cpp
 INPUT .\math\FFT.cpp
 INPUT math\FFT.cpp
+INPUT .\math\josephus.cpp
+INPUT .\math\josephus.cpp
+INPUT math\josephus.cpp
 INPUT .\math\theorem.tex
 INPUT .\math\theorem.tex
 INPUT math\theorem.tex
