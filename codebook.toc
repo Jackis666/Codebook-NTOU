@@ -57,9 +57,11 @@
 \contentsline {subsection}{\numberline {10.4}Prime}{12}{}%
 \contentsline {subsection}{\numberline {10.5}ExGCD}{12}{}%
 \contentsline {subsection}{\numberline {10.6}Phi}{12}{}%
-\contentsline {subsection}{\numberline {10.7}Euler/歐拉函數}{12}{}%
+\contentsline {subsection}{\numberline {10.7}Euler/歐拉函數}{13}{}%
 \contentsline {subsection}{\numberline {10.8}miller rabin/判斷質數}{13}{}%
 \contentsline {subsection}{\numberline {10.9}Pollard Rho/質因數分解}{13}{}%
 \contentsline {subsection}{\numberline {10.10}FFT/傅立葉轉換(多項式相乘)}{13}{}%
 \contentsline {subsection}{\numberline {10.11}josephus/約瑟夫問題}{13}{}%
-\contentsline {subsection}{\numberline {10.12}Theorem}{13}{}%
+\contentsline {subsection}{\numberline {10.12}BSGS}{13}{}%
+\contentsline {subsection}{\numberline {10.13}$x^2 \pmod p == a$}{14}{}%
+\contentsline {subsection}{\numberline {10.14}Theorem}{14}{}%
