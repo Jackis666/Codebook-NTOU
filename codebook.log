@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  18 SEP 2026 20:59
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  18 SEP 2026 21:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -667,7 +667,7 @@ LaTeX Font Warning: Font shape `TU/Monaco(0)/m/it' undefined
 LaTeX Font Warning: Font shape `TU/NotoSansTC(0)/m/it' undefined
 (Font)              using `TU/NotoSansTC(0)/m/n' instead on input line 2.
 
-) (basic/random.cpp) (binary search/binary search.cpp)
+) (basic/random.cpp) (binary search/binary search.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
@@ -675,7 +675,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [1
 
-] (binary search/tenary search.cpp) (datastructure/dsu.cpp) (datastructure/BIT.cpp) (datastructure/BIT_2D.cpp) (datastructure/Seg.cpp
+]) (binary search/tenary search.cpp) (datastructure/dsu.cpp) (datastructure/BIT.cpp) (datastructure/BIT_2D.cpp) (datastructure/Seg.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
@@ -763,18 +763,19 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[13]) (math/pollard_rho.cpp) (math/FFT.cpp) (math/josephus.cpp) (math/BSGS.cpp) (math/DiscreteSqrt.cpp) (math/theorem.tex
-
-Package amsmath Warning: Foreign command \atopwithdelims;
-(amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 13.
-
+[13]) (math/pollard_rho.cpp) (math/FFT.cpp) (math/josephus.cpp) (math/指數塔.cpp) (math/BSGS.cpp) (math/DiscreteSqrt.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[14])
+[14]) (math/theorem.tex
+
+Package amsmath Warning: Foreign command \atopwithdelims;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 13.
+
+)
 File: photo/mygo_frame_haruhikage.jpeg Graphic file (type bmp)
 <photo/mygo_frame_haruhikage.jpeg>
 
@@ -808,12 +809,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 21008 strings out of 402986
- 454525 string characters out of 5447675
+ 21016 strings out of 402986
+ 454629 string characters out of 5447675
  2183115 words of memory out of 5000000
- 49211 multiletter control sequences out of 15000+600000
+ 49216 multiletter control sequences out of 15000+600000
  634471 words of font info for 98 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,12n,94p,441b,1731s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on codebook.xdv (17 pages, 1475316 bytes).
+Output written on codebook.xdv (17 pages, 1483840 bytes).

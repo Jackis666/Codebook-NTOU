@@ -398,6 +398,9 @@ INPUT math\FFT.cpp
 INPUT .\math\josephus.cpp
 INPUT .\math\josephus.cpp
 INPUT math\josephus.cpp
+INPUT .\math\指數塔.cpp
+INPUT .\math\指數塔.cpp
+INPUT math\指數塔.cpp
 INPUT .\math\BSGS.cpp
 INPUT .\math\BSGS.cpp
 INPUT math\BSGS.cpp
