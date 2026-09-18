@@ -302,6 +302,9 @@ INPUT Computational Geometry\ConvexHull.cpp
 INPUT .\Computational Geometry\PtSegDist.cpp
 INPUT .\Computational Geometry\PtSegDist.cpp
 INPUT Computational Geometry\PtSegDist.cpp
+INPUT .\Computational Geometry\IntersectionOfLines.cpp
+INPUT .\Computational Geometry\IntersectionOfLines.cpp
+INPUT Computational Geometry\IntersectionOfLines.cpp
 INPUT .\Computational Geometry\inpoly.cpp
 INPUT .\Computational Geometry\inpoly.cpp
 INPUT Computational Geometry\inpoly.cpp

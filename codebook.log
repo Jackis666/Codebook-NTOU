@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  17 SEP 2026 09:03
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  18 SEP 2026 16:32
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -699,19 +699,19 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[5]) (Computational Geometry/circle.cpp) (math/sort_of_point.cpp) (Computational Geometry/ConvexHull.cpp) (Computational Geometry/PtSegDist.cpp) (Computational Geometry/inpoly.cpp) (Computational Geometry/選轉卡尺.cpp) (Computational Geometry/closet pair.cpp) (flow/km.cpp
+[5]) (Computational Geometry/circle.cpp) (math/sort_of_point.cpp) (Computational Geometry/ConvexHull.cpp) (Computational Geometry/PtSegDist.cpp) (Computational Geometry/IntersectionOfLines.cpp) (Computational Geometry/inpoly.cpp) (Computational Geometry/選轉卡尺.cpp) (Computational Geometry/closet pair.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[6]) (flow/dinic.cpp) (flow/hungarian.cpp) (string/KMP.cpp
+[6]) (flow/km.cpp) (flow/dinic.cpp) (flow/hungarian.cpp)
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[7]) (string/zvalue.cpp) (string/馬拉車.cpp) (string/minRotation.cpp) (string/SAIS.cpp) (string/trie.cpp
+[7] (string/KMP.cpp) (string/zvalue.cpp) (string/馬拉車.cpp) (string/minRotation.cpp) (string/SAIS.cpp) (string/trie.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
@@ -734,9 +734,6 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
 [9]) (math/basic.cpp) (math/pow.cpp) (math/bigmath.cpp
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
-
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
@@ -744,13 +741,13 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 [10]) (math/Prime.cpp) (math/exgcd.cpp) (math/phi.cpp) (math/euler.cpp
 Missing character: There is no φ in font [.fonts/ttf/Monaco-Regular]/OT:language=dflt;!
-) (math/miller_rabin.cpp) (math/pollard_rho.cpp)
+) (math/miller_rabin.cpp) (math/pollard_rho.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[11] (math/FFT.cpp) (math/theorem.tex
+[11]) (math/FFT.cpp) (math/theorem.tex
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
@@ -779,7 +776,15 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[14] (codebook.aux)
+[14
+
+]
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[15] (codebook.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
@@ -790,12 +795,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 20756 strings out of 402986
- 451155 string characters out of 5447675
- 2189115 words of memory out of 5000000
- 49000 multiletter control sequences out of 15000+600000
+ 20768 strings out of 402986
+ 451503 string characters out of 5447675
+ 2199115 words of memory out of 5000000
+ 49009 multiletter control sequences out of 15000+600000
  629802 words of font info for 77 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,12n,94p,441b,1731s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on codebook.xdv (14 pages, 1190836 bytes).
+Output written on codebook.xdv (15 pages, 1200532 bytes).
