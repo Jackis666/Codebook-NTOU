@@ -308,6 +308,9 @@ INPUT math\sort_of_point.cpp
 INPUT .\Computational Geometry\ConvexHull.cpp
 INPUT .\Computational Geometry\ConvexHull.cpp
 INPUT Computational Geometry\ConvexHull.cpp
+INPUT .\Computational Geometry\ConvexHull_hong.cpp
+INPUT .\Computational Geometry\ConvexHull_hong.cpp
+INPUT Computational Geometry\ConvexHull_hong.cpp
 INPUT .\Computational Geometry\PtSegDist.cpp
 INPUT .\Computational Geometry\PtSegDist.cpp
 INPUT Computational Geometry\PtSegDist.cpp
