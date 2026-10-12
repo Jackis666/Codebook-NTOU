@@ -98,4 +98,15 @@ struct Seg {
         res = ll + rr;
         return res;
     }
+    int find_kth(int id, int l, int r, int k) {
+        push(id, l, r);
+        if (l == r) return l;
+        int mid = (l + r) >> 1;
+        push(cl(id), l, mid);
+        push(cr(id), mid + 1, r);
+        if (f[cl(id)] >= k) {
+            return find_kth(cl(id), l, mid, k);
+        }
+        return find_kth(cr(id), mid + 1, r, k - f[cl(id)]);
+    }
 };
