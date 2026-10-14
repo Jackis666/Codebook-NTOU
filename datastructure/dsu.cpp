@@ -1,7 +1,7 @@
 struct DSU {
     vector<int> f, sz;
     int cnt;
-    DSU(int n) : f(n), sz(n) {
+    DSU(int n) : f(n), sz(n),cnt(n) {
         for (int i = 0; i < n; i++) {
             f[i] = i;
             sz[i] = 1;

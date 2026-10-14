@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1790876549.45519 "codebook.xdv" "codebook.pdf" "codebook" 1790876550.26014 0
-  "codebook.xdv" 1790876549 1524540 69ec8c3077313e62730c96a21dcd7b69 "xelatex"
+["xdvipdfmx"] 1791994021.9295 "codebook.xdv" "codebook.pdf" "codebook" 1791994022.87917 0
+  "codebook.xdv" 1791994021 1532480 711a371642c4caf1d41362906cbfdce9 "xelatex"
   (generated)
   "codebook.pdf"
   (rewritten before read)
-["xelatex"] 1790876545.20105 "d:/GITHUB/Codebook-NTOU/codebook.tex" "codebook.xdv" "codebook" 1790876550.25164 0
+["xelatex"] 1791994017.17166 "d:/GITHUB/Codebook-NTOU/codebook.tex" "codebook.xdv" "codebook" 1791994022.86972 0
   "C:/Users/Jackis666/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1768460476 27178390 43a9fe56a5275703fe0f645eaac894c7 ""
   "C:/Users/Jackis666/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/Jackis666/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -150,15 +150,15 @@
   "basic/random.cpp" 1786460820 195 af3a9ca87c4dfb6af5a8044c90c78d95 ""
   "binary search/binary search.cpp" 1786460820 925 cf8a229fbd6022876d34196afbd0796d ""
   "binary search/tenary search.cpp" 1786460820 280 2cd2f4c4bd70a5e6c3a9a1d5b76e1947 ""
-  "codebook.aux" 1790876549 13584 3c645f08f8d84c6a19e7b17de5a7a969 "xelatex"
-  "codebook.tex" 1790876535 11512 e4fd1478d35e97a93088d051d4eec5a0 ""
-  "codebook.toc" 1790876549 4695 aa9e16eb07f83fbd6de81af580d2c0c2 "xelatex"
-  "d:/GITHUB/Codebook-NTOU/codebook.tex" 1790876535 11512 e4fd1478d35e97a93088d051d4eec5a0 ""
+  "codebook.aux" 1791994021 13584 a30854bb6bdf01a2472348d7a62fdcd4 "xelatex"
+  "codebook.tex" 1791994003 11512 e4fd1478d35e97a93088d051d4eec5a0 ""
+  "codebook.toc" 1791994021 4695 af2456182d08efeb9a17fa0ed87fbc53 "xelatex"
+  "d:/GITHUB/Codebook-NTOU/codebook.tex" 1791994003 11512 e4fd1478d35e97a93088d051d4eec5a0 ""
   "datastructure/BIT.cpp" 1786460820 781 cd6b844a01fd08ff3f68df9e9484a1b9 ""
   "datastructure/BIT_2D.cpp" 1786460820 693 6d875bb0a785d16a45127c5fa2ddb6d3 ""
-  "datastructure/Seg.cpp" 1786460820 2519 2925bd2e9c37082d7a140e6685371f41 ""
+  "datastructure/Seg.cpp" 1791816906 2882 a7bb894948237cc89d8369d856334f72 ""
   "datastructure/Segment_tree_beats.cpp" 1789570754 2803 ff6a68fb5b812c662dd3c5d730145932 ""
-  "datastructure/dsu.cpp" 1786460820 641 0344be43263fd553a3ad53ff73bcef39 ""
+  "datastructure/dsu.cpp" 1791993987 648 f53edae98c254ff4a905dc1c1305004b ""
   "datastructure/lichaoseg.cpp" 1789570990 1440 9dd10a2ff93caebdd7c0eda48a4d920c ""
   "dynamic programming/SOS.cpp" 1786460820 326 2a34f23464ab597747e3d58b7a953d8b ""
   "dynamic programming/p_median.cpp" 1789492664 610 47d0d05b248bf2c12b85bf59937a1928 ""
