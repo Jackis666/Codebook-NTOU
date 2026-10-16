@@ -1,4 +1,4 @@
-struct Edge {
+struct Edge {//1-base
   int from, to, weight;
 } edge[MAXN];
 int dis[MAXN];

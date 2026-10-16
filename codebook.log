@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  16 OCT 2026 20:05
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  17 OCT 2026 01:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -699,16 +699,13 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[5]
-Missing character: There is no 没 in font [.fonts/ttf/NotoSansTC-Regular.ttf]/OT:script=hani;language=dflt;!
-Missing character: There is no 连 in font [.fonts/ttf/NotoSansTC-Regular.ttf]/OT:script=hani;language=dflt;!
-) (graph/平均最小團.cpp) (graph/支配點.cpp) (dynamic programming/SOS.cpp
+[5]) (graph/平均最小團.cpp) (graph/支配點.cpp) (dynamic programming/SOS.cpp) (dynamic programming/p_median.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[6]) (dynamic programming/p_median.cpp) (Computational Geometry/defult.cpp) (Computational Geometry/circle.cpp) (math/sort_of_point.cpp) (Computational Geometry/ConvexHull.cpp) (Computational Geometry/ConvexHull_hong.cpp
+[6]) (Computational Geometry/defult.cpp) (Computational Geometry/circle.cpp) (math/sort_of_point.cpp) (Computational Geometry/ConvexHull.cpp) (Computational Geometry/ConvexHull_hong.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
@@ -726,7 +723,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[9]) (flow/dijk_flow.cpp) (graph/conclusion.tex
+[9]) (graph/conclusion.tex
 Underfull \hbox (badness 10000) in paragraph at lines 2--11
 
  []
@@ -736,55 +733,55 @@ Underfull \hbox (badness 10000) in paragraph at lines 11--23
 
  []
 
-) (string/KMP.cpp) (string/zvalue.cpp
+) (string/KMP.cpp) (string/zvalue.cpp) (string/馬拉車.cpp) (string/minRotation.cpp) (string/SAIS.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[10]) (string/馬拉車.cpp) (string/minRotation.cpp) (string/SAIS.cpp) (string/trie.cpp) (string/ACautomata.cpp
+[10]) (string/trie.cpp) (string/ACautomata.cpp) (math/basic.cpp) (math/pow.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[11]) (math/basic.cpp) (math/pow.cpp) (math/bigmath.cpp
+[11]) (math/bigmath.cpp) (math/Prime.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[12]) (math/Prime.cpp) (math/exgcd.cpp) (math/phi.cpp
+[12]) (math/exgcd.cpp) (math/phi.cpp
 Missing character: There is no φ in font [.fonts/ttf/Monaco-Regular]/OT:language=dflt;!
 ) (math/euler.cpp
 Missing character: There is no φ in font [.fonts/ttf/Monaco-Regular]/OT:language=dflt;!
+) (math/miller_rabin.cpp) (math/pollard_rho.cpp) (math/FFT.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[13]) (math/miller_rabin.cpp) (math/pollard_rho.cpp) (math/FFT.cpp) (math/josephus.cpp) (math/指數塔.cpp) (math/BSGS.cpp
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[14]) (math/DiscreteSqrt.cpp) (math/theorem.tex
+[13]) (math/josephus.cpp) (math/指數塔.cpp) (math/BSGS.cpp) (math/DiscreteSqrt.cpp) (math/theorem.tex
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 12.
 
-) (useful/areaofrect.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[15])
+[14]) (useful/areaofrect.cpp)
 File: photo/mygo_frame_haruhikage.jpeg Graphic file (type bmp)
 <photo/mygo_frame_haruhikage.jpeg>
 
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[15]
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
@@ -798,15 +795,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[17
-
-]
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[18] (codebook.aux)
+[17] (codebook.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2022/08/05>
@@ -817,12 +806,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 21095 strings out of 402986
- 458570 string characters out of 5447675
- 2182115 words of memory out of 5000000
- 49292 multiletter control sequences out of 15000+600000
+ 21059 strings out of 402986
+ 458182 string characters out of 5447675
+ 2150114 words of memory out of 5000000
+ 49259 multiletter control sequences out of 15000+600000
  634471 words of font info for 98 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 84i,12n,94p,441b,1733s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,12n,94p,441b,1731s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on codebook.xdv (18 pages, 1541060 bytes).
+Output written on codebook.xdv (17 pages, 1499640 bytes).

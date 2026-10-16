@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1792152359.39466 "codebook.xdv" "codebook.pdf" "codebook" 1792152360.30313 0
-  "codebook.xdv" 1792152359 1541060 c6ba0a55d2a3da3843d64e64bc64b4ab "xelatex"
+["xdvipdfmx"] 1792170911.70495 "codebook.xdv" "codebook.pdf" "codebook" 1792170912.32731 0
+  "codebook.xdv" 1792170911 1499640 efa25b0efae17768d65e627d66eb50d0 "xelatex"
   (generated)
   "codebook.pdf"
   (rewritten before read)
-["xelatex"] 1792152354.66477 "d:/GITHUB/Codebook-NTOU/codebook.tex" "codebook.xdv" "codebook" 1792152360.2924 0
+["xelatex"] 1792170907.22085 "d:/GITHUB/Codebook-NTOU/codebook.tex" "codebook.xdv" "codebook" 1792170912.31803 0
   "C:/Users/Jackis666/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1768460476 27178390 43a9fe56a5275703fe0f645eaac894c7 ""
   "C:/Users/Jackis666/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/Jackis666/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -150,10 +150,10 @@
   "basic/random.cpp" 1786460820 195 af3a9ca87c4dfb6af5a8044c90c78d95 ""
   "binary search/binary search.cpp" 1786460820 925 cf8a229fbd6022876d34196afbd0796d ""
   "binary search/tenary search.cpp" 1786460820 280 2cd2f4c4bd70a5e6c3a9a1d5b76e1947 ""
-  "codebook.aux" 1792152359 13570 b9940a0b189938e8a7124d6de24b1540 "xelatex"
-  "codebook.tex" 1792152345 11516 c83fe94eb23a582880081776ab27ce16 ""
-  "codebook.toc" 1792152359 4681 e37b6114efc0a178a36666f3e8550b44 "xelatex"
-  "d:/GITHUB/Codebook-NTOU/codebook.tex" 1792152345 11516 c83fe94eb23a582880081776ab27ce16 ""
+  "codebook.aux" 1792170911 13343 57bbf7b8303024dbb613c494e6788d33 "xelatex"
+  "codebook.tex" 1792170897 11520 c4d998915cdf7153b2ec85903fd795cb ""
+  "codebook.toc" 1792170911 4605 595785ff4ef9d0d573706e537d46193f "xelatex"
+  "d:/GITHUB/Codebook-NTOU/codebook.tex" 1792170897 11520 c4d998915cdf7153b2ec85903fd795cb ""
   "datastructure/BIT.cpp" 1786460820 781 cd6b844a01fd08ff3f68df9e9484a1b9 ""
   "datastructure/BIT_2D.cpp" 1786460820 693 6d875bb0a785d16a45127c5fa2ddb6d3 ""
   "datastructure/Seg.cpp" 1791816906 2882 a7bb894948237cc89d8369d856334f72 ""
@@ -162,17 +162,16 @@
   "datastructure/lichaoseg.cpp" 1789570990 1440 9dd10a2ff93caebdd7c0eda48a4d920c ""
   "dynamic programming/SOS.cpp" 1786460820 326 2a34f23464ab597747e3d58b7a953d8b ""
   "dynamic programming/p_median.cpp" 1789492664 610 47d0d05b248bf2c12b85bf59937a1928 ""
-  "flow/dijk_flow.cpp" 1789736383 1755 9b80b88d3b8d96604e50dbde62a139f1 ""
   "flow/dinic.cpp" 1786460820 1331 252ee8bbc078b5cf1d03a3c5fc171890 ""
   "flow/hungarian.cpp" 1789579322 1193 35e1a968f095f0984439c63f9cedbaab ""
   "flow/km.cpp" 1786460820 1705 36d382707677795bb7b703abb1992750 ""
   "flow/最小花費最大流SPFA.cpp" 1789736100 1430 bc9532fb05507f5e0d54d5d77398499e ""
   "graph/Bcc.cpp" 1789398839 1502 4dc5caf8f901fc9ee02135aa4177483e ""
   "graph/Scc.cpp" 1786461561 816 930227c57efb5ae10cb2cbe0ada97c16 ""
-  "graph/bellman.cpp" 1786460820 464 2bbd5714f5609e32d15ad72cd458110f ""
+  "graph/bellman.cpp" 1792170856 472 1238d693f19bfeedcedd0ecb11e2e04d ""
   "graph/conclusion.tex" 1789401684 1270 6b1c8d753ee37ae4072d74040de17b59 ""
   "graph/lca.cpp" 1786460820 1229 5146dbf38e9e9b0173c8a675dc268e70 ""
-  "graph/maxcilque.cpp" 1789729023 1995 c67634096469a7769e35a6a6bd1665f4 ""
+  "graph/maxcilque.cpp" 1792170856 1995 39221c479d2dd4d346be5b462dbda068 ""
   "graph/ola.cpp" 1786460820 571 fd266b999cf089161f382bf492730979 ""
   "graph/topo.cpp" 1786460820 432 c032ccadfbe761bb645024defbb92ec6 ""
   "graph/支配點.cpp" 1789729350 1968 2c368e8bd193dcd909cc7ce1147173ff ""
