@@ -1,6 +1,8 @@
 const int MAXN = 262144<<1;
 // (must be 2^k)
 // before any usage, run pre_fft() first
+//用法: pre_fft(); fft(n, a); mul(n, a.data(), m, b.data(), ans.data());
+//答案在 ans[0..n+m-2]，n,m為a,b的長度
 typedef long double ld;
 typedef complex<ld> cplx; //real() ,imag()
 const ld PI = acosl(-1);
