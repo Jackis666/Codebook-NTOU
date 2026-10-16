@@ -238,10 +238,19 @@ INPUT basic\coolthings.cpp
 INPUT .\basic\random.cpp
 INPUT .\basic\random.cpp
 INPUT basic\random.cpp
+INPUT .\basic\run.bat
+INPUT .\basic\run.bat
+INPUT basic\run.bat
+INPUT .\basic\run.sh
+INPUT .\basic\run.sh
+INPUT basic\run.sh
+INPUT .\basic\對拍.py
+INPUT .\basic\對拍.py
+INPUT basic\對拍.py
+OUTPUT codebook.xdv
 INPUT .\binary search\binary search.cpp
 INPUT .\binary search\binary search.cpp
 INPUT binary search\binary search.cpp
-OUTPUT codebook.xdv
 INPUT .\binary search\tenary search.cpp
 INPUT .\binary search\tenary search.cpp
 INPUT binary search\tenary search.cpp

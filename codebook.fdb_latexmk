@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1792170911.70495 "codebook.xdv" "codebook.pdf" "codebook" 1792170912.32731 0
-  "codebook.xdv" 1792170911 1499640 efa25b0efae17768d65e627d66eb50d0 "xelatex"
+["xdvipdfmx"] 1792171893.02636 "codebook.xdv" "codebook.pdf" "codebook" 1792171893.64793 0
+  "codebook.xdv" 1792171892 1544816 2778d7ebef6ab72043ea738e6de88147 "xelatex"
   (generated)
   "codebook.pdf"
   (rewritten before read)
-["xelatex"] 1792170907.22085 "d:/GITHUB/Codebook-NTOU/codebook.tex" "codebook.xdv" "codebook" 1792170912.31803 0
+["xelatex"] 1792171888.91183 "d:/GITHUB/Codebook-NTOU/codebook.tex" "codebook.xdv" "codebook" 1792171893.63962 0
   "C:/Users/Jackis666/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1768460476 27178390 43a9fe56a5275703fe0f645eaac894c7 ""
   "C:/Users/Jackis666/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/Jackis666/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -148,12 +148,15 @@
   "basic/coolthings.cpp" 1786460820 363 f0b0bda2c9c5e862cd610425d239534a ""
   "basic/default.cpp" 1786460820 348 892ebbb49ae53f4efdacb7637324ba22 ""
   "basic/random.cpp" 1786460820 195 af3a9ca87c4dfb6af5a8044c90c78d95 ""
+  "basic/run.bat" 1792171314 229 9831241ff83cefd51f812207eed2e922 ""
+  "basic/run.sh" 1792171354 146 eacc7962c693b12f49de8679f79f4923 ""
+  "basic/對拍.py" 1792171883 1309 bcb3d8c593beb4f4e0d40e8603418f6e ""
   "binary search/binary search.cpp" 1786460820 925 cf8a229fbd6022876d34196afbd0796d ""
   "binary search/tenary search.cpp" 1786460820 280 2cd2f4c4bd70a5e6c3a9a1d5b76e1947 ""
-  "codebook.aux" 1792170911 13343 57bbf7b8303024dbb613c494e6788d33 "xelatex"
-  "codebook.tex" 1792170897 11520 c4d998915cdf7153b2ec85903fd795cb ""
-  "codebook.toc" 1792170911 4605 595785ff4ef9d0d573706e537d46193f "xelatex"
-  "d:/GITHUB/Codebook-NTOU/codebook.tex" 1792170897 11520 c4d998915cdf7153b2ec85903fd795cb ""
+  "codebook.aux" 1792171892 13922 0908066b1b8e768be8663ea356e0db01 "xelatex"
+  "codebook.tex" 1792171799 11723 06cb01b51d030a36f03ad616954abf24 ""
+  "codebook.toc" 1792171892 4791 5380a73a6a08c1ed3b2bf586cfef6ebb "xelatex"
+  "d:/GITHUB/Codebook-NTOU/codebook.tex" 1792171799 11723 06cb01b51d030a36f03ad616954abf24 ""
   "datastructure/BIT.cpp" 1786460820 781 cd6b844a01fd08ff3f68df9e9484a1b9 ""
   "datastructure/BIT_2D.cpp" 1786460820 693 6d875bb0a785d16a45127c5fa2ddb6d3 ""
   "datastructure/Seg.cpp" 1791816906 2882 a7bb894948237cc89d8369d856334f72 ""
