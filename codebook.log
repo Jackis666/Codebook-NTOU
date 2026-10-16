@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  16 OCT 2026 01:53
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  16 OCT 2026 16:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -774,7 +774,7 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
-(amsmath)                 on input line 13.
+(amsmath)                 on input line 12.
 
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
@@ -817,12 +817,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 21040 strings out of 402986
- 455079 string characters out of 5447675
- 2182114 words of memory out of 5000000
- 49237 multiletter control sequences out of 15000+600000
+ 21095 strings out of 402986
+ 458570 string characters out of 5447675
+ 2182115 words of memory out of 5000000
+ 49292 multiletter control sequences out of 15000+600000
  634471 words of font info for 98 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,12n,94p,441b,1731s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on codebook.xdv (18 pages, 1537768 bytes).
+Output written on codebook.xdv (18 pages, 1540512 bytes).
