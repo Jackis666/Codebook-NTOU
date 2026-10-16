@@ -365,9 +365,6 @@ INPUT string\trie.cpp
 INPUT .\string\ACautomata.cpp
 INPUT .\string\ACautomata.cpp
 INPUT string\ACautomata.cpp
-INPUT .\useful\areaofrect.cpp
-INPUT .\useful\areaofrect.cpp
-INPUT useful\areaofrect.cpp
 INPUT .\math\basic.cpp
 INPUT .\math\basic.cpp
 INPUT math\basic.cpp
@@ -431,6 +428,9 @@ INPUT math\DiscreteSqrt.cpp
 INPUT .\math\theorem.tex
 INPUT .\math\theorem.tex
 INPUT math\theorem.tex
+INPUT .\useful\areaofrect.cpp
+INPUT .\useful\areaofrect.cpp
+INPUT useful\areaofrect.cpp
 INPUT .\photo\mygo_frame_haruhikage.jpeg
 INPUT .\photo\mygo_frame_haruhikage.jpeg
 INPUT .\photo\mygo_frame_haruhikage.jpeg

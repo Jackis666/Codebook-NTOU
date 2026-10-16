@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  16 OCT 2026 16:21
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  16 OCT 2026 20:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -748,34 +748,34 @@ Package fancyhdr Warning: \footskip is too small (0.0pt):
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[11]) (useful/areaofrect.cpp) (math/basic.cpp) (math/pow.cpp
+[11]) (math/basic.cpp) (math/pow.cpp) (math/bigmath.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[12]) (math/bigmath.cpp) (math/Prime.cpp) (math/exgcd.cpp)
-
-Package fancyhdr Warning: \footskip is too small (0.0pt): 
-(fancyhdr)                Make it at least 3.60004pt, for example:
-(fancyhdr)                \setlength{\footskip}{3.60004pt}.
-
-[13] (math/phi.cpp
+[12]) (math/Prime.cpp) (math/exgcd.cpp) (math/phi.cpp
 Missing character: There is no φ in font [.fonts/ttf/Monaco-Regular]/OT:language=dflt;!
 ) (math/euler.cpp
 Missing character: There is no φ in font [.fonts/ttf/Monaco-Regular]/OT:language=dflt;!
-) (math/miller_rabin.cpp) (math/pollard_rho.cpp) (math/FFT.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
 (fancyhdr)                \setlength{\footskip}{3.60004pt}.
 
-[14]) (math/josephus.cpp) (math/指數塔.cpp) (math/BSGS.cpp) (math/DiscreteSqrt.cpp) (math/theorem.tex
+[13]) (math/miller_rabin.cpp) (math/pollard_rho.cpp) (math/FFT.cpp) (math/josephus.cpp) (math/指數塔.cpp) (math/BSGS.cpp
+
+Package fancyhdr Warning: \footskip is too small (0.0pt): 
+(fancyhdr)                Make it at least 3.60004pt, for example:
+(fancyhdr)                \setlength{\footskip}{3.60004pt}.
+
+[14]) (math/DiscreteSqrt.cpp) (math/theorem.tex
 
 Package amsmath Warning: Foreign command \atopwithdelims;
 (amsmath)                \frac or \genfrac should be used instead
 (amsmath)                 on input line 12.
 
+) (useful/areaofrect.cpp
 
 Package fancyhdr Warning: \footskip is too small (0.0pt): 
 (fancyhdr)                Make it at least 3.60004pt, for example:
@@ -823,6 +823,6 @@ Here is how much of TeX's memory you used:
  49292 multiletter control sequences out of 15000+600000
  634471 words of font info for 98 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 84i,12n,94p,441b,1731s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 84i,12n,94p,441b,1733s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on codebook.xdv (18 pages, 1540512 bytes).
+Output written on codebook.xdv (18 pages, 1541060 bytes).
