@@ -1,4 +1,5 @@
 //支配點
+//定義: s支配u <=> s到u的所有路徑都經過s
 //最後 idom[u] 為點 u 的支配點
 struct DominatorTree{ // O(N)
 #define REP(i,s,e) for(int i=(s);i<=(e);i++)
