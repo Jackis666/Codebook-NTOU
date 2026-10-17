@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1792210509.82117 "codebook.xdv" "codebook.pdf" "codebook" 1792210510.64429 0
-  "codebook.xdv" 1792210509 1545544 44cc10f54c83009fbaf80ea4783c9e23 "xelatex"
+["xdvipdfmx"] 1792214689.57759 "codebook.xdv" "codebook.pdf" "codebook" 1792214690.34067 0
+  "codebook.xdv" 1792214689 1575928 b616ab407ca02ff6d036feb18cc836fb "xelatex"
   (generated)
   "codebook.pdf"
   (rewritten before read)
-["xelatex"] 1792210505.51912 "d:/GITHUB/Codebook-NTOU/codebook.tex" "codebook.xdv" "codebook" 1792210510.63582 0
+["xelatex"] 1792214685.4875 "d:/GITHUB/Codebook-NTOU/codebook.tex" "codebook.xdv" "codebook" 1792214690.33166 0
   "C:/Users/Jackis666/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1768460476 27178390 43a9fe56a5275703fe0f645eaac894c7 ""
   "C:/Users/Jackis666/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/Jackis666/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -144,6 +144,7 @@
   "Computational Geometry/closet pair.cpp" 1789579452 1391 1f32e4ea23689b47a364376ba4b81160 ""
   "Computational Geometry/defult.cpp" 1786460820 1109 259074929db7660f1b503320da6e412c ""
   "Computational Geometry/inpoly.cpp" 1786460820 427 80dd24eea9a97a2c3f29a46ac7037925 ""
+  "Computational Geometry/minEnclosingCircle.cpp" 1792214637 1160 d18a3a8e4ebd55c5ca51aba6f566a01b ""
   "Computational Geometry/選轉卡尺.cpp" 1787841049 397 359ac959eb7e7f3dd82774fb1eed22a5 ""
   "basic/coolthings.cpp" 1786460820 363 f0b0bda2c9c5e862cd610425d239534a ""
   "basic/default.cpp" 1786460820 348 892ebbb49ae53f4efdacb7637324ba22 ""
@@ -153,10 +154,10 @@
   "basic/對拍.py" 1792171883 1309 bcb3d8c593beb4f4e0d40e8603418f6e ""
   "binary search/binary search.cpp" 1786460820 925 cf8a229fbd6022876d34196afbd0796d ""
   "binary search/tenary search.cpp" 1786460820 280 2cd2f4c4bd70a5e6c3a9a1d5b76e1947 ""
-  "codebook.aux" 1792210509 13922 d5f5932e31841cb5b05e1948604163ae "xelatex"
-  "codebook.tex" 1792210497 11723 b657351abbcbae6cb8f7d84697821fce ""
-  "codebook.toc" 1792210509 4791 2ac78224af6a3a1f3e3e24b3062ff16f "xelatex"
-  "d:/GITHUB/Codebook-NTOU/codebook.tex" 1792210497 11723 b657351abbcbae6cb8f7d84697821fce ""
+  "codebook.aux" 1792214689 14154 283ec98096b8892508edb0be34d963eb "xelatex"
+  "codebook.tex" 1792214680 11828 b556ebb03516ad69dae3a0cd71b0c409 ""
+  "codebook.toc" 1792214689 4860 01e4375556a242957598d00383e1b40d "xelatex"
+  "d:/GITHUB/Codebook-NTOU/codebook.tex" 1792214680 11828 b556ebb03516ad69dae3a0cd71b0c409 ""
   "datastructure/BIT.cpp" 1786460820 781 cd6b844a01fd08ff3f68df9e9484a1b9 ""
   "datastructure/BIT_2D.cpp" 1786460820 693 6d875bb0a785d16a45127c5fa2ddb6d3 ""
   "datastructure/Seg.cpp" 1791816906 2882 a7bb894948237cc89d8369d856334f72 ""

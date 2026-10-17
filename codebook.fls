@@ -335,6 +335,9 @@ INPUT Computational Geometry\選轉卡尺.cpp
 INPUT .\Computational Geometry\closet pair.cpp
 INPUT .\Computational Geometry\closet pair.cpp
 INPUT Computational Geometry\closet pair.cpp
+INPUT .\Computational Geometry\minEnclosingCircle.cpp
+INPUT .\Computational Geometry\minEnclosingCircle.cpp
+INPUT Computational Geometry\minEnclosingCircle.cpp
 INPUT .\flow\km.cpp
 INPUT .\flow\km.cpp
 INPUT flow\km.cpp
