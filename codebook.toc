@@ -37,7 +37,7 @@
 \contentsline {subsection}{\numberline {6.6}PtSegDist}{8}{}%
 \contentsline {subsection}{\numberline {6.7}兩線相交}{8}{}%
 \contentsline {subsection}{\numberline {6.8}點是否在多邊形內}{8}{}%
-\contentsline {subsection}{\numberline {6.9}最遠點對/選轉卡尺}{8}{}%
+\contentsline {subsection}{\numberline {6.9}最遠點對/旋轉卡尺}{8}{}%
 \contentsline {subsection}{\numberline {6.10}最近點對}{9}{}%
 \contentsline {section}{\numberline {7}Flow}{9}{}%
 \contentsline {subsection}{\numberline {7.1}km/二分圖最大權匹配}{9}{}%
