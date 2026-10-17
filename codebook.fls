@@ -296,6 +296,9 @@ INPUT dynamic programming\SOS.cpp
 INPUT .\dynamic programming\p_median.cpp
 INPUT .\dynamic programming\p_median.cpp
 INPUT dynamic programming\p_median.cpp
+INPUT .\dynamic programming\digitdp.cpp
+INPUT .\dynamic programming\digitdp.cpp
+INPUT dynamic programming\digitdp.cpp
 INPUT .\Computational Geometry\defult.cpp
 INPUT .\Computational Geometry\defult.cpp
 INPUT Computational Geometry\defult.cpp

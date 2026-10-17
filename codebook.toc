@@ -22,15 +22,16 @@
 \contentsline {subsection}{\numberline {4.7}最大團}{5}{}%
 \contentsline {subsection}{\numberline {4.8}平均最小團}{6}{}%
 \contentsline {subsection}{\numberline {4.9}支配點}{6}{}%
-\contentsline {section}{\numberline {5}dynamic programming}{6}{}%
-\contentsline {subsection}{\numberline {5.1}SOS DP}{6}{}%
+\contentsline {section}{\numberline {5}dynamic programming}{7}{}%
+\contentsline {subsection}{\numberline {5.1}SOS DP}{7}{}%
 \contentsline {subsection}{\numberline {5.2}p-median}{7}{}%
+\contentsline {subsection}{\numberline {5.3}digitdp}{7}{}%
 \contentsline {section}{\numberline {6}Computational Geometry}{7}{}%
 \contentsline {subsection}{\numberline {6.1}defult}{7}{}%
 \contentsline {subsection}{\numberline {6.2}Circle}{7}{}%
 \contentsline {subsection}{\numberline {6.3}極座標排序}{7}{}%
-\contentsline {subsection}{\numberline {6.4}ConvexHull/凸包(傑)}{7}{}%
-\contentsline {subsection}{\numberline {6.5}ConvexHull/凸包(宏)}{7}{}%
+\contentsline {subsection}{\numberline {6.4}ConvexHull/凸包(傑)}{8}{}%
+\contentsline {subsection}{\numberline {6.5}ConvexHull/凸包(宏)}{8}{}%
 \contentsline {subsection}{\numberline {6.6}PtSegDist}{8}{}%
 \contentsline {subsection}{\numberline {6.7}兩線相交}{8}{}%
 \contentsline {subsection}{\numberline {6.8}點是否在多邊形內}{8}{}%
@@ -40,12 +41,12 @@
 \contentsline {section}{\numberline {7}Flow}{9}{}%
 \contentsline {subsection}{\numberline {7.1}km/二分圖最大權匹配}{9}{}%
 \contentsline {subsection}{\numberline {7.2}Dinic}{9}{}%
-\contentsline {subsection}{\numberline {7.3}hungarian/匈牙利演算法}{9}{}%
+\contentsline {subsection}{\numberline {7.3}hungarian/匈牙利演算法}{10}{}%
 \contentsline {subsection}{\numberline {7.4}SPFA最小費流}{10}{}%
 \contentsline {subsection}{\numberline {7.5}差分約束系統}{10}{}%
-\contentsline {section}{\numberline {8}String}{10}{}%
-\contentsline {subsection}{\numberline {8.1}KMP}{10}{}%
-\contentsline {subsection}{\numberline {8.2}Z-value}{10}{}%
+\contentsline {section}{\numberline {8}String}{11}{}%
+\contentsline {subsection}{\numberline {8.1}KMP}{11}{}%
+\contentsline {subsection}{\numberline {8.2}Z-value}{11}{}%
 \contentsline {subsection}{\numberline {8.3}馬拉車}{11}{}%
 \contentsline {subsection}{\numberline {8.4}minRotation/最小字典序旋轉}{11}{}%
 \contentsline {subsection}{\numberline {8.5}SAIS}{11}{}%
@@ -54,21 +55,21 @@
 \contentsline {section}{\numberline {9}Math}{12}{}%
 \contentsline {subsection}{\numberline {9.1}basic}{12}{}%
 \contentsline {subsection}{\numberline {9.2}快速幂}{12}{}%
-\contentsline {subsection}{\numberline {9.3}大數運算}{12}{}%
+\contentsline {subsection}{\numberline {9.3}大數運算}{13}{}%
 \contentsline {subsection}{\numberline {9.4}Prime}{13}{}%
 \contentsline {subsection}{\numberline {9.5}ExGCD}{13}{}%
 \contentsline {subsection}{\numberline {9.6}Phi}{13}{}%
-\contentsline {subsection}{\numberline {9.7}Euler/歐拉函數}{13}{}%
+\contentsline {subsection}{\numberline {9.7}Euler/歐拉函數}{14}{}%
 \contentsline {subsection}{\numberline {9.8}miller rabin/判斷質數}{14}{}%
 \contentsline {subsection}{\numberline {9.9}Pollard Rho/質因數分解}{14}{}%
 \contentsline {subsection}{\numberline {9.10}FFT/傅立葉轉換(多項式相乘)}{14}{}%
-\contentsline {subsection}{\numberline {9.11}josephus/約瑟夫問題}{14}{}%
-\contentsline {subsection}{\numberline {9.12}指數塔}{14}{}%
-\contentsline {subsection}{\numberline {9.13}BSGS}{14}{}%
+\contentsline {subsection}{\numberline {9.11}josephus/約瑟夫問題}{15}{}%
+\contentsline {subsection}{\numberline {9.12}指數塔}{15}{}%
+\contentsline {subsection}{\numberline {9.13}BSGS}{15}{}%
 \contentsline {subsection}{\numberline {9.14}$x^2 \pmod p == a$}{15}{}%
 \contentsline {subsection}{\numberline {9.15}Theorem}{15}{}%
-\contentsline {section}{\numberline {10}酷東西可能會用到}{15}{}%
-\contentsline {subsection}{\numberline {10.1}areaofrect/矩形聯集面積}{15}{}%
+\contentsline {section}{\numberline {10}酷東西可能會用到}{16}{}%
+\contentsline {subsection}{\numberline {10.1}areaofrect/矩形聯集面積}{16}{}%
 \contentsline {section}{\numberline {11}對拍}{16}{}%
 \contentsline {subsection}{\numberline {11.1}run.bat}{16}{}%
 \contentsline {subsection}{\numberline {11.2}run.sh}{16}{}%
