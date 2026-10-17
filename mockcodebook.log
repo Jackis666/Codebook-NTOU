@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  7 OCT 2026 17:05
+This is XeTeX, Version 3.141592653-2.6-0.999997 (MiKTeX 25.12) (preloaded format=xelatex 2026.1.15)  17 OCT 2026 21:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -703,12 +703,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 19837 strings out of 402986
- 436120 string characters out of 5447675
- 1699123 words of memory out of 5000000
- 48206 multiletter control sequences out of 15000+600000
+ 19839 strings out of 402986
+ 436166 string characters out of 5447675
+ 1764123 words of memory out of 5000000
+ 48208 multiletter control sequences out of 15000+600000
  629818 words of font info for 79 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  84i,12n,94p,445b,1731s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on mockcodebook.xdv (3 pages, 282276 bytes).
+Output written on mockcodebook.xdv (3 pages, 292156 bytes).
