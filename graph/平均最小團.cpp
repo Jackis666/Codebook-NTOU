@@ -40,19 +40,19 @@ struct MMC{
       }
       if (avg < mmc) tie(mmc, st) = tie(avg, i);
     }
-    fill(vst,0); edgeID.clear(); cycle.clear(); rho.clear();
+    fill(vst, vst + sizeof(vst) / sizeof(vst[0]),0LL); edgeID.clear(); cycle.clear(); rho.clear();
     for (int i=n; !vst[st]; st=prv[i--][st]) {
       vst[st]++;
-      edgeID.PB(prve[i][st]);
-      rho.PB(st);
+      edgeID.pb(prve[i][st]);
+      rho.pb(st);
     }
     while (vst[st] != 2) {
       if(rho.empty())	return inf;
       int v = rho.back(); rho.pop_back();
-      cycle.PB(v);
+      cycle.pb(v);
       vst[v]++;
     }
-    reverse(ALL(edgeID));
-    edgeID.resize(SZ(cycle));
+    reverse(edgeID.begin(),edgeID.end());
+    edgeID.resize(cycle.size());
     return mmc;
 } }mmc;

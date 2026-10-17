@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1792214689.57759 "codebook.xdv" "codebook.pdf" "codebook" 1792214690.34067 0
-  "codebook.xdv" 1792214689 1575928 b616ab407ca02ff6d036feb18cc836fb "xelatex"
+["xdvipdfmx"] 1792221872.42137 "codebook.xdv" "codebook.pdf" "codebook" 1792221873.11084 0
+  "codebook.xdv" 1792221872 1577096 86be2b3770fe6510805f828031be0805 "xelatex"
   (generated)
   "codebook.pdf"
   (rewritten before read)
-["xelatex"] 1792214685.4875 "d:/GITHUB/Codebook-NTOU/codebook.tex" "codebook.xdv" "codebook" 1792214690.33166 0
+["xelatex"] 1792221867.89532 "d:/GITHUB/Codebook-NTOU/codebook.tex" "codebook.xdv" "codebook" 1792221873.10127 0
   "C:/Users/Jackis666/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1768460476 27178390 43a9fe56a5275703fe0f645eaac894c7 ""
   "C:/Users/Jackis666/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1233951848 1004 54797486969f23fa377b128694d548df ""
   "C:/Users/Jackis666/AppData/Local/Programs/MiKTeX/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1233951848 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -154,9 +154,9 @@
   "basic/對拍.py" 1792171883 1309 bcb3d8c593beb4f4e0d40e8603418f6e ""
   "binary search/binary search.cpp" 1786460820 925 cf8a229fbd6022876d34196afbd0796d ""
   "binary search/tenary search.cpp" 1786460820 280 2cd2f4c4bd70a5e6c3a9a1d5b76e1947 ""
-  "codebook.aux" 1792214689 14154 283ec98096b8892508edb0be34d963eb "xelatex"
+  "codebook.aux" 1792221872 14154 283ec98096b8892508edb0be34d963eb "xelatex"
   "codebook.tex" 1792214680 11828 b556ebb03516ad69dae3a0cd71b0c409 ""
-  "codebook.toc" 1792214689 4860 01e4375556a242957598d00383e1b40d "xelatex"
+  "codebook.toc" 1792221872 4860 01e4375556a242957598d00383e1b40d "xelatex"
   "d:/GITHUB/Codebook-NTOU/codebook.tex" 1792214680 11828 b556ebb03516ad69dae3a0cd71b0c409 ""
   "datastructure/BIT.cpp" 1786460820 781 cd6b844a01fd08ff3f68df9e9484a1b9 ""
   "datastructure/BIT_2D.cpp" 1786460820 693 6d875bb0a785d16a45127c5fa2ddb6d3 ""
@@ -179,7 +179,7 @@
   "graph/ola.cpp" 1786460820 571 fd266b999cf089161f382bf492730979 ""
   "graph/topo.cpp" 1786460820 432 c032ccadfbe761bb645024defbb92ec6 ""
   "graph/支配點.cpp" 1792172025 2023 fbf07ac96e6b2104614961cce940a458 ""
-  "graph/平均最小團.cpp" 1789729123 1692 a3eb28f1277f92a997dfed3703a8d4d2 ""
+  "graph/平均最小團.cpp" 1792221866 1749 c4a86518dd2931cc06e3a1ad60d2fa9b ""
   "math/BSGS.cpp" 1789729751 660 0a52e8c9b26bab49f2faf7d5843fbb24 ""
   "math/DiscreteSqrt.cpp" 1789729800 812 f7b6793ec5c7b35279ea40f7c73031c2 ""
   "math/FFT.cpp" 1792086800 1511 4cab3756a2fdd33bdf13b7339d74a135 ""
