@@ -22,7 +22,8 @@ struct DominatorTree{ // O(N)
   }
   void init( int _n , int _s ){
     ts = 0; n = _n; s = _s;
-    REP( i, 1, n ) g[ i ].clear(), pred[ i ].clear();
+    REP( i, 1, n ) g[ i ].clear(), pred[ i ].clear(),dfn[i]=0;;
+
   }
   void addEdge( int u , int v ){
     g[ u ].push_back( v );
@@ -66,4 +67,4 @@ struct DominatorTree{ // O(N)
       if( u == 0 ) continue ;
       if( idom[ u ] != sdom[ u ] )
         idom[ u ] = idom[ idom[ u ] ];
-} } }domT;
+}idom[s]=s; } }domT;
