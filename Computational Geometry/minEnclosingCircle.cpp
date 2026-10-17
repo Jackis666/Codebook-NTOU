@@ -1,4 +1,5 @@
 /* minimum enclosing circle */
+//O(n)
 int n;
 pt p[ MAXN ];
 const Cir circumcircle(pt a,pt b,pt c){
